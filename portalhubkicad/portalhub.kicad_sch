@@ -2,10 +2,10 @@
 	(version 20260306)
 	(generator "eeschema")
 	(generator_version "10.0")
-	(uuid "9385e21f-1220-4893-8da3-3b0d5c506998")
+	(uuid "0e4864ec-c96c-4945-b96a-3daed380265b")
 	(paper "User" 297.434 209.804)
 	(lib_symbols
-		(symbol "portalusbh-easyedapro:10.0 QHHTZB6.3"
+		(symbol "portalhub-easyedapro:10.0 QHHTZB6.3"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -31,7 +31,7 @@
 					)
 				)
 			)
-			(property "Footprint" "portalusbh-easyedapro:USB-A-TH_10.0QHHTZB6.3"
+			(property "Footprint" "portalhub-easyedapro:USB-A-TH_10.0QHHTZB6.3"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -242,7 +242,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "portalusbh-easyedapro:CAP"
+		(symbol "portalhub-easyedapro:CAP"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -269,7 +269,7 @@
 					)
 				)
 			)
-			(property "Footprint" "portalusbh-easyedapro:C0603"
+			(property "Footprint" "portalhub-easyedapro:C0603"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -390,7 +390,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "portalusbh-easyedapro:Drawing-Symbol_A4"
+		(symbol "portalhub-easyedapro:Drawing-Symbol_A4"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -416,7 +416,7 @@
 					)
 				)
 			)
-			(property "Footprint" "portalusbh-easyedapro:"
+			(property "Footprint" "portalhub-easyedapro:"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -2237,7 +2237,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "portalusbh-easyedapro:Ground-GND"
+		(symbol "portalhub-easyedapro:Ground-GND"
 			(power global)
 			(pin_numbers
 				(hide yes)
@@ -2271,7 +2271,7 @@
 					)
 				)
 			)
-			(property "Footprint" "portalusbh-easyedapro:"
+			(property "Footprint" "portalhub-easyedapro:"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -2374,7 +2374,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "portalusbh-easyedapro:Power-5V"
+		(symbol "portalhub-easyedapro:Power-5V"
 			(power global)
 			(pin_numbers
 				(hide yes)
@@ -2408,7 +2408,7 @@
 					)
 				)
 			)
-			(property "Footprint" "portalusbh-easyedapro:"
+			(property "Footprint" "portalhub-easyedapro:"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -2487,7 +2487,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "portalusbh-easyedapro:Res"
+		(symbol "portalhub-easyedapro:Res"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -2514,7 +2514,7 @@
 					)
 				)
 			)
-			(property "Footprint" "portalusbh-easyedapro:R0603"
+			(property "Footprint" "portalhub-easyedapro:R0603"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -2598,7 +2598,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "portalusbh-easyedapro:SL2.1S"
+		(symbol "portalhub-easyedapro:SL2.1S"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -2624,7 +2624,7 @@
 					)
 				)
 			)
-			(property "Footprint" "portalusbh-easyedapro:SSOP-16_L4.6-W2.6-P0.53-LS4.0-BL"
+			(property "Footprint" "portalhub-easyedapro:SSOP-16_L4.6-W2.6-P0.53-LS4.0-BL"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -3026,7 +3026,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "portalusbh-easyedapro:TYPE-C 16PIN 2MD(073)"
+		(symbol "portalhub-easyedapro:TYPE-C 16PIN 2MD(073)"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -3052,7 +3052,7 @@
 					)
 				)
 			)
-			(property "Footprint" "portalusbh-easyedapro:USB-C-SMD_TYPE-C-16PIN-2MD-073"
+			(property "Footprint" "portalhub-easyedapro:USB-C-SMD_TYPE-C-16PIN-2MD-073"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -3409,118 +3409,88 @@
 		)
 	)
 	(junction
-		(at 57.15 76.2)
+		(at 189.23 121.92)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "1185c5a4-981d-4ec3-b4fa-498ece9587fb")
-	)
-	(junction
-		(at 229.87 104.14)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "42a6557c-019f-4e50-9b12-9c9be346a564")
-	)
-	(junction
-		(at 189.23 111.76)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "664394e6-e5b8-4692-b516-a85825e92e7e")
+		(uuid "0f805c63-aa88-466f-9b8c-fd949469c6a5")
 	)
 	(junction
 		(at 228.6 31.75)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "7e33808e-4aa2-4b75-81ca-c029bc8c2f93")
-	)
-	(junction
-		(at 123.19 107.95)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "84405d01-61ca-4841-b85d-0dd246fdb055")
-	)
-	(junction
-		(at 160.02 121.92)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "87666637-52d7-4a4b-99f1-865dc36de5e5")
-	)
-	(junction
-		(at 160.02 111.76)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "9b12ef63-898a-49db-908c-a4543c902aa7")
-	)
-	(junction
-		(at 227.33 69.85)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "aef51c8d-cf00-4979-bb1b-9ea96f5ac535")
+		(uuid "50aa31fa-4bff-46ad-9178-3b6aca9770c5")
 	)
 	(junction
 		(at 92.71 73.66)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "c00cd21f-a5ce-46cc-9d4b-a7133704d14c")
+		(uuid "685ddc31-3636-4f75-9cab-28ea18f049cb")
 	)
 	(junction
-		(at 189.23 121.92)
+		(at 160.02 111.76)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "c0b6485b-9c94-40b9-bbef-d11b3eeb62d7")
+		(uuid "941ae663-5d8b-4e14-af1a-133c0799c935")
 	)
 	(junction
-		(at 227.33 135.89)
+		(at 123.19 107.95)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "c4f13822-563c-4849-b0b8-f6ed27f2bff4")
+		(uuid "a0a53672-8808-4fc3-8b77-7bb40e8536a5")
+	)
+	(junction
+		(at 189.23 111.76)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c20eacdc-90cd-47a6-b5c8-e408171e9b8d")
+	)
+	(junction
+		(at 227.33 69.85)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c7d510db-7721-4e4a-8fe7-7c741681f814")
 	)
 	(junction
 		(at 134.62 97.79)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "c576b600-bf21-41c3-a286-432425b19f4e")
+		(uuid "c8b266c5-5c0f-4c50-89e1-313983b0a6bd")
+	)
+	(junction
+		(at 160.02 121.92)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "caf6db07-63d0-444c-a3fa-84d259f2144c")
+	)
+	(junction
+		(at 57.15 76.2)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ce7a1001-9c58-465e-8472-d4a94b9f8739")
+	)
+	(junction
+		(at 227.33 135.89)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "fbd8d6cf-35dd-4d88-b747-69e297a5a1d7")
+	)
+	(junction
+		(at 229.87 104.14)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "fc004584-4105-485d-b0b8-193c855a337d")
 	)
 	(no_connect
 		(at 74.93 71.12)
-		(uuid "5cb7eda1-0bb7-4721-ac52-20011f329e69")
-	)
-	(no_connect
-		(at 74.93 55.88)
-		(uuid "7a47f493-903a-470e-8a04-8d5e65f70cfc")
+		(uuid "86507980-9527-44ac-85ad-7dc729237ff8")
 	)
 	(no_connect
 		(at 173.99 95.25)
-		(uuid "bfd22057-4a56-48f1-8f9e-38343decff61")
+		(uuid "a042d70a-4e27-409b-b1b8-5c7af3937548")
 	)
-	(wire
-		(pts
-			(xy 248.92 143.51) (xy 241.3 143.51)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "01c33609-b5fd-4e0e-945d-8b52dd478cfd")
-	)
-	(wire
-		(pts
-			(xy 248.92 39.37) (xy 238.76 39.37)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "06ed29b3-fe32-4962-9fb7-31ce36abd112")
-	)
-	(wire
-		(pts
-			(xy 57.15 76.2) (xy 52.07 76.2)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "08cbf088-6260-4903-812e-e0af18caf82e")
+	(no_connect
+		(at 74.93 55.88)
+		(uuid "e68b141d-a06f-45ad-92ec-d4d74c1ff1f1")
 	)
 	(wire
 		(pts
@@ -3530,447 +3500,7 @@
 			(width 0)
 			(type default)
 		)
-		(uuid "0aa6f1a2-6617-49b9-8cfc-ef33d446c939")
-	)
-	(wire
-		(pts
-			(xy 241.3 34.29) (xy 248.92 34.29)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0babc919-c877-463d-a7b5-47ff03acf32f")
-	)
-	(wire
-		(pts
-			(xy 241.3 109.22) (xy 248.92 109.22)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0f6a7a93-68ed-4bcd-bcfc-2fb7ff8341dc")
-	)
-	(wire
-		(pts
-			(xy 134.62 97.79) (xy 134.62 95.25)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "16b2565f-5917-44bb-a522-3b70854fbac1")
-	)
-	(wire
-		(pts
-			(xy 261.62 46.99) (xy 261.62 48.26)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1b5dc481-c5b3-4b09-aea4-39ca17ebd493")
-	)
-	(wire
-		(pts
-			(xy 74.93 60.96) (xy 82.55 60.96)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1b60668e-4e3e-4756-9fbc-bce2987550d5")
-	)
-	(wire
-		(pts
-			(xy 173.99 87.63) (xy 181.61 87.63)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1b86191b-0842-4b04-81cd-a30e945af384")
-	)
-	(wire
-		(pts
-			(xy 57.15 48.26) (xy 57.15 76.2)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "214b8e39-f809-4590-8f88-bcfc4b28c86f")
-	)
-	(wire
-		(pts
-			(xy 151.13 100.33) (xy 148.59 100.33)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "25c35d8d-7d33-401e-8627-b2f5d5ff5b62")
-	)
-	(wire
-		(pts
-			(xy 281.94 119.38) (xy 261.62 119.38)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "27cd43b3-85ab-4a5a-8957-8910bed94b6a")
-	)
-	(wire
-		(pts
-			(xy 283.21 24.13) (xy 261.62 24.13)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2a0c1864-742b-402e-b376-772aa0fe68f4")
-	)
-	(wire
-		(pts
-			(xy 189.23 111.76) (xy 189.23 97.79)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "36e26ec8-a2a6-4789-bf14-85baeb622352")
-	)
-	(wire
-		(pts
-			(xy 151.13 97.79) (xy 134.62 97.79)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3b3c806c-5bc5-4d8d-bf7a-040da74a614f")
-	)
-	(wire
-		(pts
-			(xy 248.92 138.43) (xy 241.3 138.43)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3d275f66-98a0-4d52-ba8f-bed4f0442953")
-	)
-	(wire
-		(pts
-			(xy 74.93 73.66) (xy 92.71 73.66)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "41ccddaf-b294-4d22-9450-e2871666dc4c")
-	)
-	(wire
-		(pts
-			(xy 274.32 128.27) (xy 261.62 128.27)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "430915fe-a8e6-41e9-9490-a3fe2c15256c")
-	)
-	(wire
-		(pts
-			(xy 151.13 82.55) (xy 143.51 82.55)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "45d9ca39-b1b8-4db8-a441-c30307080f18")
-	)
-	(wire
-		(pts
-			(xy 151.13 85.09) (xy 143.51 85.09)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4b0fa29e-eecd-4d08-9454-1d2563c6b74b")
-	)
-	(wire
-		(pts
-			(xy 74.93 66.04) (xy 82.55 66.04)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4b635404-ef43-4f94-9c1c-4c9e42d38e56")
-	)
-	(wire
-		(pts
-			(xy 248.92 140.97) (xy 241.3 140.97)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4b6af873-0d30-4441-b433-7d2da8fcb06a")
-	)
-	(wire
-		(pts
-			(xy 151.13 90.17) (xy 143.51 90.17)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4d736ba0-d4d5-4e2a-a778-818c7584517c")
-	)
-	(wire
-		(pts
-			(xy 74.93 36.83) (xy 74.93 48.26)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4f0ad3cc-0f84-4e73-8d78-7034905fce32")
-	)
-	(wire
-		(pts
-			(xy 261.62 62.23) (xy 274.32 62.23)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "51254f6d-ae87-4b2e-89a0-5044f02100b0")
-	)
-	(wire
-		(pts
-			(xy 74.93 58.42) (xy 82.55 58.42)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "51648f99-0e85-4aa6-925d-26abb1b5c3fd")
-	)
-	(wire
-		(pts
-			(xy 228.6 31.75) (xy 228.6 29.21)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5180d035-57b5-4c8c-8114-efd9a8a13459")
-	)
-	(wire
-		(pts
-			(xy 134.62 97.79) (xy 123.19 97.79)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "533079e4-b278-4051-9d6e-7fa943a4a16a")
-	)
-	(wire
-		(pts
-			(xy 248.92 72.39) (xy 241.3 72.39)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "58d0c8db-bfa1-467b-975f-043b0c53e9ba")
-	)
-	(wire
-		(pts
-			(xy 189.23 111.76) (xy 200.66 111.76)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5a365aef-1177-4228-9a6c-84897b912268")
-	)
-	(wire
-		(pts
-			(xy 248.92 77.47) (xy 241.3 77.47)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5eb03d21-ae17-45a2-bfbc-9a1bcb4d932b")
-	)
-	(wire
-		(pts
-			(xy 261.62 48.26) (xy 283.21 48.26)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "664aaa59-0346-43b4-849a-7af502a3c0be")
-	)
-	(wire
-		(pts
-			(xy 189.23 97.79) (xy 173.99 97.79)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "69bdd44e-30a9-4368-b8e2-8d905f0a05c5")
-	)
-	(wire
-		(pts
-			(xy 195.58 86.36) (xy 195.58 92.71)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6d979706-0766-417a-9e42-8b2a28b8c4b3")
-	)
-	(wire
-		(pts
-			(xy 248.92 74.93) (xy 241.3 74.93)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "75608482-c502-4ffd-8c39-3ad386649f7c")
-	)
-	(wire
-		(pts
-			(xy 173.99 82.55) (xy 181.61 82.55)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7adba8fc-4c31-4f6a-afc6-3025386ababf")
-	)
-	(wire
-		(pts
-			(xy 241.3 36.83) (xy 248.92 36.83)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7fec759c-ee88-4d96-a871-a30be109944d")
-	)
-	(wire
-		(pts
-			(xy 92.71 73.66) (xy 92.71 76.2)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "854051b4-93f4-46d9-817a-c30a6d053213")
-	)
-	(wire
-		(pts
-			(xy 241.3 111.76) (xy 248.92 111.76)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8a57aca0-4ed6-4f8e-b572-beb1b6243d39")
-	)
-	(wire
-		(pts
-			(xy 74.93 63.5) (xy 82.55 63.5)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8bf4a739-d5f4-4954-915b-06b22430b5b9")
-	)
-	(wire
-		(pts
-			(xy 248.92 104.14) (xy 229.87 104.14)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8dac932c-9f82-403f-92a6-a969b25f7820")
-	)
-	(wire
-		(pts
-			(xy 160.02 107.95) (xy 160.02 111.76)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "924223d7-2385-437d-9cfc-9c151528ca03")
-	)
-	(wire
-		(pts
-			(xy 189.23 121.92) (xy 200.66 121.92)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "957c2e0f-8a01-4bb6-a81a-0631180639c7")
-	)
-	(wire
-		(pts
-			(xy 74.93 50.8) (xy 92.71 50.8)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a70247c7-d264-4e52-a123-12daa4d414be")
-	)
-	(wire
-		(pts
-			(xy 261.62 151.13) (xy 275.59 151.13)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "abcbcb75-a656-4111-bd39-7f720e47e0f7")
-	)
-	(wire
-		(pts
-			(xy 105.41 68.58) (xy 74.93 68.58)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b08cf2ef-1bfb-4c6f-abeb-385bd5115995")
-	)
-	(wire
-		(pts
-			(xy 74.93 76.2) (xy 81.28 76.2)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b1bb8745-6c1a-47af-be0b-de22890fac95")
+		(uuid "022a9ef2-2239-43d4-8055-dea08b9c0a31")
 	)
 	(wire
 		(pts
@@ -3980,177 +3510,27 @@
 			(width 0)
 			(type default)
 		)
-		(uuid "b58b8346-ce12-46dc-90b6-b13a23700f5a")
+		(uuid "0834cf0b-d6a2-478c-a922-2838a96b0178")
 	)
 	(wire
 		(pts
-			(xy 227.33 69.85) (xy 248.92 69.85)
+			(xy 74.93 36.83) (xy 74.93 48.26)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "b5a23c83-22e1-400b-905d-7896f3798b79")
+		(uuid "0aa6ea4b-2599-4db6-adb3-d7b0097dc5ba")
 	)
 	(wire
 		(pts
-			(xy 228.6 31.75) (xy 248.92 31.75)
+			(xy 248.92 77.47) (xy 241.3 77.47)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "b6254393-a238-4deb-9a3c-eb4e92fca46e")
-	)
-	(wire
-		(pts
-			(xy 274.32 128.27) (xy 274.32 129.54)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c13de705-8b72-48a3-97e3-4b6ddf753a9c")
-	)
-	(wire
-		(pts
-			(xy 151.13 87.63) (xy 143.51 87.63)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c2736d8e-2ce8-4637-869e-3c7408765f98")
-	)
-	(wire
-		(pts
-			(xy 173.99 90.17) (xy 181.61 90.17)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c3e53019-2410-4294-aa08-e4d7c5055eb4")
-	)
-	(wire
-		(pts
-			(xy 123.19 107.95) (xy 134.62 107.95)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c3e5780b-a504-49aa-98b9-d9676c7a480f")
-	)
-	(wire
-		(pts
-			(xy 241.3 106.68) (xy 248.92 106.68)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c49b4924-c85f-4416-b043-c4564ee47315")
-	)
-	(wire
-		(pts
-			(xy 173.99 85.09) (xy 181.61 85.09)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c722af83-47f1-40cd-ab9b-3d01448ad159")
-	)
-	(wire
-		(pts
-			(xy 151.13 95.25) (xy 143.51 95.25)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c88d4972-18a7-4877-87ab-b9e106ed7b84")
-	)
-	(wire
-		(pts
-			(xy 92.71 36.83) (xy 74.93 36.83)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d697083d-9a4c-4073-88de-fcab00c3058f")
-	)
-	(wire
-		(pts
-			(xy 274.32 96.52) (xy 261.62 96.52)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ddd18383-5b58-499e-83b8-11ccba053330")
-	)
-	(wire
-		(pts
-			(xy 171.45 111.76) (xy 160.02 111.76)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e69f573b-cd1c-4ca4-b393-89cdb59c0ab6")
-	)
-	(wire
-		(pts
-			(xy 248.92 135.89) (xy 227.33 135.89)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "eac216ee-06f1-4330-969c-7c85f97636bc")
-	)
-	(wire
-		(pts
-			(xy 261.62 85.09) (xy 283.21 85.09)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ed05b94b-6621-428b-bcd4-982fa4617732")
-	)
-	(wire
-		(pts
-			(xy 114.3 53.34) (xy 74.93 53.34)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ed79fbc3-2812-49fa-96e8-bf6319a72ceb")
-	)
-	(wire
-		(pts
-			(xy 173.99 100.33) (xy 173.99 107.95)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ee5ea9fc-2cdc-4d65-8e80-2661aa6ff857")
-	)
-	(wire
-		(pts
-			(xy 160.02 107.95) (xy 173.99 107.95)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f50edccb-66ff-40f1-ad6e-512fe8c4e2fa")
+		(uuid "0aaf27d0-f5a1-491d-8c19-66bc73df138a")
 	)
 	(wire
 		(pts
@@ -4160,17 +3540,377 @@
 			(width 0)
 			(type default)
 		)
-		(uuid "f6ced659-de4f-4fbd-84e0-35fec3d3dc68")
+		(uuid "0e23a580-87ae-4c74-ac6d-ea489a9b4341")
 	)
 	(wire
 		(pts
-			(xy 160.02 121.92) (xy 171.45 121.92)
+			(xy 261.62 151.13) (xy 275.59 151.13)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "f6f48ea6-247f-4c12-942b-3d92f87b31dc")
+		(uuid "14ca8e9d-ec7f-4075-95ca-3f9a19afef82")
+	)
+	(wire
+		(pts
+			(xy 173.99 87.63) (xy 181.61 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "14d3d837-9d9a-44e6-b97c-065f99f5b850")
+	)
+	(wire
+		(pts
+			(xy 160.02 107.95) (xy 173.99 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "15966a40-41e4-4f0d-82a6-1325f76c19a4")
+	)
+	(wire
+		(pts
+			(xy 189.23 111.76) (xy 200.66 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "15d835cc-14ad-49f5-bbff-add35fff6b75")
+	)
+	(wire
+		(pts
+			(xy 283.21 24.13) (xy 261.62 24.13)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "21941dbe-42e3-4d5a-83a8-d24c0d2b44bd")
+	)
+	(wire
+		(pts
+			(xy 57.15 48.26) (xy 57.15 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2facddd3-e3da-4526-81f1-2a4e4f41736f")
+	)
+	(wire
+		(pts
+			(xy 227.33 69.85) (xy 248.92 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "33b02736-6b13-4cca-b9e1-3fcb18cb5caa")
+	)
+	(wire
+		(pts
+			(xy 173.99 100.33) (xy 173.99 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "36b6d3a9-0089-48a2-a500-d7afcbc2b7a9")
+	)
+	(wire
+		(pts
+			(xy 151.13 97.79) (xy 134.62 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3aea90bb-96da-4113-bb04-3012901134fd")
+	)
+	(wire
+		(pts
+			(xy 195.58 86.36) (xy 195.58 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3d4e7591-4c56-48a2-b1d3-502812cdbedb")
+	)
+	(wire
+		(pts
+			(xy 248.92 138.43) (xy 241.3 138.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3de1df97-9d26-4d79-acbf-2da29bf9196a")
+	)
+	(wire
+		(pts
+			(xy 248.92 72.39) (xy 241.3 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3e2b9921-df23-4d5d-9545-2c64c3ad0e71")
+	)
+	(wire
+		(pts
+			(xy 248.92 74.93) (xy 241.3 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "46146998-7d45-4a25-a06c-505b3829c68c")
+	)
+	(wire
+		(pts
+			(xy 57.15 76.2) (xy 52.07 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "489a2d68-e451-4de7-b01e-f648f55d7e0f")
+	)
+	(wire
+		(pts
+			(xy 74.93 60.96) (xy 82.55 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "53432d20-b02d-41f9-804f-3b7c2c9e414a")
+	)
+	(wire
+		(pts
+			(xy 241.3 111.76) (xy 248.92 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5806787e-df4e-440e-a2bb-0cde4cc99e66")
+	)
+	(wire
+		(pts
+			(xy 92.71 73.66) (xy 92.71 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "59c7dae9-1608-42e1-8965-88df20eb3733")
+	)
+	(wire
+		(pts
+			(xy 241.3 36.83) (xy 248.92 36.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5eef57af-6aaa-4641-aed2-2e05164882c1")
+	)
+	(wire
+		(pts
+			(xy 228.6 31.75) (xy 248.92 31.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6584d8e8-3268-40f8-a791-935bae07fc76")
+	)
+	(wire
+		(pts
+			(xy 171.45 111.76) (xy 160.02 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6e62d8b0-3a54-4154-82bc-6b5637f27d99")
+	)
+	(wire
+		(pts
+			(xy 248.92 143.51) (xy 241.3 143.51)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "73a1bd28-ec41-4fe5-89a6-e3585c75a600")
+	)
+	(wire
+		(pts
+			(xy 74.93 76.2) (xy 81.28 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "762cb082-76a7-4e36-a954-40c59428892e")
+	)
+	(wire
+		(pts
+			(xy 261.62 48.26) (xy 283.21 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7c255571-b0e9-4a7d-9942-ef07b6675cda")
+	)
+	(wire
+		(pts
+			(xy 92.71 36.83) (xy 74.93 36.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7db26534-3074-4db7-b80a-b7aca9104bf3")
+	)
+	(wire
+		(pts
+			(xy 105.41 68.58) (xy 74.93 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7f1b9715-096c-4956-9f83-8e87f3d347fa")
+	)
+	(wire
+		(pts
+			(xy 274.32 128.27) (xy 261.62 128.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7f5ed7ea-0999-414b-a7eb-a24305639392")
+	)
+	(wire
+		(pts
+			(xy 173.99 82.55) (xy 181.61 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "86394fc3-28fb-4c33-a06d-55558824d2b6")
+	)
+	(wire
+		(pts
+			(xy 248.92 39.37) (xy 238.76 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8718f8d6-b0a0-4bcb-ba2c-1290f3cb81c9")
+	)
+	(wire
+		(pts
+			(xy 248.92 104.14) (xy 229.87 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "87c52314-a22b-47de-92c1-50631d7d6a59")
+	)
+	(wire
+		(pts
+			(xy 281.94 119.38) (xy 261.62 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8afabbad-6957-4e6a-8d49-af73298f71e2")
+	)
+	(wire
+		(pts
+			(xy 189.23 121.92) (xy 200.66 121.92)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8d45f854-56a4-4c82-b249-8e421154b9ca")
+	)
+	(wire
+		(pts
+			(xy 241.3 106.68) (xy 248.92 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8f36755d-3745-4afb-b3ee-581815515dc9")
+	)
+	(wire
+		(pts
+			(xy 151.13 82.55) (xy 143.51 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "93370d64-9533-4f57-8bf3-aa0961a86cb0")
+	)
+	(wire
+		(pts
+			(xy 151.13 95.25) (xy 143.51 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "94c6febf-4b9d-4fa0-aa54-65e0f3876d3d")
+	)
+	(wire
+		(pts
+			(xy 274.32 128.27) (xy 274.32 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "95242dfe-6623-41e7-87a2-709101522975")
+	)
+	(wire
+		(pts
+			(xy 151.13 87.63) (xy 143.51 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "98924b2b-aa3d-4787-a150-6c706d4828d9")
+	)
+	(wire
+		(pts
+			(xy 151.13 90.17) (xy 143.51 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a6a50c0e-c0f2-4c9d-ad7a-680b901ea1df")
 	)
 	(wire
 		(pts
@@ -4180,97 +3920,267 @@
 			(width 0)
 			(type default)
 		)
-		(uuid "fb1e86c7-417f-4ee7-959e-0e8fd266e77c")
+		(uuid "aa6cef51-af55-42fa-bfb8-3638c79bdb0b")
 	)
-	(label "DP2"
-		(at 241.3 74.93 0)
-		(effects
-			(font
-				(size 1.5748 1.5748)
-			)
-			(justify left bottom)
+	(wire
+		(pts
+			(xy 241.3 109.22) (xy 248.92 109.22)
 		)
-		(uuid "01f5e398-b44a-4d2a-8ae4-1ecc311ae292")
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b02cfd75-5ddf-4912-8ba3-6657f0757a7c")
 	)
-	(label "DP3"
-		(at 176.53 82.55 0)
-		(effects
-			(font
-				(size 1.5748 1.5748)
-			)
-			(justify left bottom)
+	(wire
+		(pts
+			(xy 173.99 85.09) (xy 181.61 85.09)
 		)
-		(uuid "0493a06f-a716-4066-89a5-cac6f45825cc")
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b03d5057-67e2-4592-9f46-e0c87f21a92a")
 	)
-	(label "DN2"
-		(at 241.3 72.39 0)
-		(effects
-			(font
-				(size 1.5748 1.5748)
-			)
-			(justify left bottom)
+	(wire
+		(pts
+			(xy 134.62 97.79) (xy 123.19 97.79)
 		)
-		(uuid "0e693d4f-eb41-4fd5-a0e7-240dd52ecd98")
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b3454828-c480-4724-8f64-f13d3b284f1f")
 	)
-	(label "DN4"
-		(at 241.3 138.43 0)
-		(effects
-			(font
-				(size 1.5748 1.5748)
-			)
-			(justify left bottom)
+	(wire
+		(pts
+			(xy 134.62 97.79) (xy 134.62 95.25)
 		)
-		(uuid "13f39d1a-671f-4f6d-a822-47777b04e81d")
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b3fec3e6-0d61-40d8-a7b9-542bb497302c")
 	)
-	(label "DP4"
-		(at 176.53 87.63 0)
-		(effects
-			(font
-				(size 1.5748 1.5748)
-			)
-			(justify left bottom)
+	(wire
+		(pts
+			(xy 123.19 107.95) (xy 134.62 107.95)
 		)
-		(uuid "1452fe59-ed52-4db6-a2ae-aa3b1beb2d94")
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b877ddaf-05f6-443a-8275-e32aac82f67a")
 	)
-	(label "DN1"
-		(at 241.3 34.29 0)
-		(effects
-			(font
-				(size 1.5748 1.5748)
-			)
-			(justify left bottom)
+	(wire
+		(pts
+			(xy 248.92 135.89) (xy 227.33 135.89)
 		)
-		(uuid "24052076-a045-417d-9f2c-0d0c06d4ecdc")
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bb7fd7c9-be0e-492c-b853-7b95aee94725")
 	)
-	(label "DN4"
-		(at 176.53 90.17 0)
-		(effects
-			(font
-				(size 1.5748 1.5748)
-			)
-			(justify left bottom)
+	(wire
+		(pts
+			(xy 261.62 62.23) (xy 274.32 62.23)
 		)
-		(uuid "43a06539-6c50-4253-be7f-fabc47f431ed")
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bcd51f77-6301-4057-9923-98758529d66b")
 	)
-	(label "DN3"
-		(at 176.53 85.09 0)
-		(effects
-			(font
-				(size 1.5748 1.5748)
-			)
-			(justify left bottom)
+	(wire
+		(pts
+			(xy 189.23 111.76) (xy 189.23 97.79)
 		)
-		(uuid "4c1142bd-cd34-4861-937e-6a4e4714650c")
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c2baef6f-b603-4635-bf20-34ed93646315")
 	)
-	(label "DN1"
-		(at 143.51 87.63 0)
-		(effects
-			(font
-				(size 1.5748 1.5748)
-			)
-			(justify left bottom)
+	(wire
+		(pts
+			(xy 151.13 85.09) (xy 143.51 85.09)
 		)
-		(uuid "5262a612-2a24-4104-8241-7bef5b4056f7")
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c3bba87f-9a6a-4ec0-b6e6-9cc384fad01b")
+	)
+	(wire
+		(pts
+			(xy 274.32 96.52) (xy 261.62 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c81b54e5-ddee-4a68-87f1-ca60eb4b83e7")
+	)
+	(wire
+		(pts
+			(xy 248.92 140.97) (xy 241.3 140.97)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c995ff1a-6f14-41c2-a270-6136a7bfae3c")
+	)
+	(wire
+		(pts
+			(xy 160.02 107.95) (xy 160.02 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c9a604ff-c91d-423f-b5fa-83aedc6b1c44")
+	)
+	(wire
+		(pts
+			(xy 173.99 90.17) (xy 181.61 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cda6ac67-dd70-4412-8b02-872c1612f169")
+	)
+	(wire
+		(pts
+			(xy 151.13 100.33) (xy 148.59 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cdf5eacf-37a1-4b72-947f-9f896b0320d2")
+	)
+	(wire
+		(pts
+			(xy 261.62 85.09) (xy 283.21 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d065066f-e04f-4623-b431-1676ab5cd2af")
+	)
+	(wire
+		(pts
+			(xy 228.6 31.75) (xy 228.6 29.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d349f9c4-4345-4f8d-9f1e-48e0780130ad")
+	)
+	(wire
+		(pts
+			(xy 74.93 63.5) (xy 82.55 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d797abd3-02a3-4e39-870d-2980bda740af")
+	)
+	(wire
+		(pts
+			(xy 74.93 73.66) (xy 92.71 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e884e4b6-814c-497e-bb04-44f5e4be3cd3")
+	)
+	(wire
+		(pts
+			(xy 114.3 53.34) (xy 74.93 53.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ed781b82-d1ff-4306-8217-c443dd3fb2e5")
+	)
+	(wire
+		(pts
+			(xy 160.02 121.92) (xy 171.45 121.92)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ef1974ff-e52a-489b-a74c-49e3c1805be1")
+	)
+	(wire
+		(pts
+			(xy 261.62 46.99) (xy 261.62 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ef2d77ec-c7d7-40f3-bb0b-1ec003de3811")
+	)
+	(wire
+		(pts
+			(xy 74.93 50.8) (xy 92.71 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f00c0c13-a7ab-4e12-85eb-cb12d744fae6")
+	)
+	(wire
+		(pts
+			(xy 74.93 66.04) (xy 82.55 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f831c25d-4449-4f55-b04e-d213ff1a3d54")
+	)
+	(wire
+		(pts
+			(xy 189.23 97.79) (xy 173.99 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f98aea7f-03fe-4e8b-9150-7142c36e0f8e")
+	)
+	(wire
+		(pts
+			(xy 241.3 34.29) (xy 248.92 34.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fb8e9f07-9cc6-40be-b78b-e6ce5f247098")
+	)
+	(wire
+		(pts
+			(xy 74.93 58.42) (xy 82.55 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fddeff70-c546-442f-8c88-08e9547d3bfb")
 	)
 	(label "DP"
 		(at 82.55 58.42 0)
@@ -4280,117 +4190,7 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "5323109a-d904-4065-9a12-2efa016a501a")
-	)
-	(label "DN2"
-		(at 143.51 82.55 0)
-		(effects
-			(font
-				(size 1.5748 1.5748)
-			)
-			(justify left bottom)
-		)
-		(uuid "7e3e8113-c3ab-4287-9f5c-63dbbeb1c584")
-	)
-	(label "DP"
-		(at 143.51 95.25 0)
-		(effects
-			(font
-				(size 1.5748 1.5748)
-			)
-			(justify left bottom)
-		)
-		(uuid "819a78c4-7f8b-4928-9c97-394310a72a1c")
-	)
-	(label "DP1"
-		(at 241.3 36.83 0)
-		(effects
-			(font
-				(size 1.5748 1.5748)
-			)
-			(justify left bottom)
-		)
-		(uuid "86af0498-75db-4253-a3ab-4d829c5f1fc8")
-	)
-	(label "DN"
-		(at 82.55 60.96 0)
-		(effects
-			(font
-				(size 1.5748 1.5748)
-			)
-			(justify left bottom)
-		)
-		(uuid "9ae06299-4d01-42b9-a3ff-8143b0d808e0")
-	)
-	(label "DP4"
-		(at 241.3 140.97 0)
-		(effects
-			(font
-				(size 1.5748 1.5748)
-			)
-			(justify left bottom)
-		)
-		(uuid "a5feea70-066b-449e-8d8f-e27a4f14dbf6")
-	)
-	(label "DN"
-		(at 143.51 92.71 0)
-		(effects
-			(font
-				(size 1.5748 1.5748)
-			)
-			(justify left bottom)
-		)
-		(uuid "bfdafac8-bf03-4862-a5b2-9fe6880b75ec")
-	)
-	(label "DP2"
-		(at 143.51 85.09 0)
-		(effects
-			(font
-				(size 1.5748 1.5748)
-			)
-			(justify left bottom)
-		)
-		(uuid "c92d4816-cc16-4f61-83b0-3ed766d027f4")
-	)
-	(label "DN"
-		(at 82.55 66.04 0)
-		(effects
-			(font
-				(size 1.5748 1.5748)
-			)
-			(justify left bottom)
-		)
-		(uuid "d45d4586-b78f-4584-a23e-39b3a1178702")
-	)
-	(label "DP1"
-		(at 143.51 90.17 0)
-		(effects
-			(font
-				(size 1.5748 1.5748)
-			)
-			(justify left bottom)
-		)
-		(uuid "e8d41b8e-00d7-4b58-8e84-251a7ea77881")
-	)
-	(label "DN3"
-		(at 241.3 106.68 0)
-		(effects
-			(font
-				(size 1.5748 1.5748)
-			)
-			(justify left bottom)
-		)
-		(uuid "ef8ab008-9e48-4790-9cc9-39dba368bf0d")
-	)
-	(label "DP"
-		(at 82.55 63.5 0)
-		(effects
-			(font
-				(size 1.5748 1.5748)
-			)
-			(justify left bottom)
-		)
-		(uuid "f5f15067-9e77-4f10-8dca-584cf8304e3d")
+		(uuid "226f79d9-d7f3-40cb-97da-ab5c70bbbcb3")
 	)
 	(label "DP3"
 		(at 241.3 109.22 0)
@@ -4400,11 +4200,211 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "fcd480c2-45ec-407e-9195-3233c74dc0e8")
+		(uuid "26d001da-8993-4371-9cd5-e5e16e0a303f")
+	)
+	(label "DP4"
+		(at 241.3 140.97 0)
+		(effects
+			(font
+				(size 1.5748 1.5748)
+			)
+			(justify left bottom)
+		)
+		(uuid "37038919-2e82-466c-8caf-135999550b38")
+	)
+	(label "DP"
+		(at 143.51 95.25 0)
+		(effects
+			(font
+				(size 1.5748 1.5748)
+			)
+			(justify left bottom)
+		)
+		(uuid "3a6113db-88db-455f-b143-777bd5518a49")
+	)
+	(label "DP3"
+		(at 176.53 82.55 0)
+		(effects
+			(font
+				(size 1.5748 1.5748)
+			)
+			(justify left bottom)
+		)
+		(uuid "3dedbca9-af76-43b5-9f7e-0c2e9ca5f11a")
+	)
+	(label "DN"
+		(at 82.55 66.04 0)
+		(effects
+			(font
+				(size 1.5748 1.5748)
+			)
+			(justify left bottom)
+		)
+		(uuid "42ebb277-b5ef-47fb-b7b1-ac52c276c49e")
+	)
+	(label "DN1"
+		(at 241.3 34.29 0)
+		(effects
+			(font
+				(size 1.5748 1.5748)
+			)
+			(justify left bottom)
+		)
+		(uuid "4bb059a8-77ed-453d-acd1-8f25195812fc")
+	)
+	(label "DP2"
+		(at 241.3 74.93 0)
+		(effects
+			(font
+				(size 1.5748 1.5748)
+			)
+			(justify left bottom)
+		)
+		(uuid "51e3ae31-1b43-4f0e-8df3-7c5dc5f857ad")
+	)
+	(label "DN2"
+		(at 143.51 82.55 0)
+		(effects
+			(font
+				(size 1.5748 1.5748)
+			)
+			(justify left bottom)
+		)
+		(uuid "67accf5e-7e29-4090-8cf9-ddb2ea5d9ca6")
+	)
+	(label "DP"
+		(at 82.55 63.5 0)
+		(effects
+			(font
+				(size 1.5748 1.5748)
+			)
+			(justify left bottom)
+		)
+		(uuid "732aade6-ff5c-48f8-8cd2-631406eb39d5")
+	)
+	(label "DN2"
+		(at 241.3 72.39 0)
+		(effects
+			(font
+				(size 1.5748 1.5748)
+			)
+			(justify left bottom)
+		)
+		(uuid "74a47fea-b6f1-4eb7-b074-7b62556b3b1c")
+	)
+	(label "DN"
+		(at 82.55 60.96 0)
+		(effects
+			(font
+				(size 1.5748 1.5748)
+			)
+			(justify left bottom)
+		)
+		(uuid "769c30a9-2a1b-4301-acd4-2e3159ba7dbc")
+	)
+	(label "DN3"
+		(at 241.3 106.68 0)
+		(effects
+			(font
+				(size 1.5748 1.5748)
+			)
+			(justify left bottom)
+		)
+		(uuid "8d8b16aa-75c1-4f1d-ad52-c0467bfbda53")
+	)
+	(label "DN4"
+		(at 176.53 90.17 0)
+		(effects
+			(font
+				(size 1.5748 1.5748)
+			)
+			(justify left bottom)
+		)
+		(uuid "a48f888f-ee12-4319-8c27-ea64733691f9")
+	)
+	(label "DN3"
+		(at 176.53 85.09 0)
+		(effects
+			(font
+				(size 1.5748 1.5748)
+			)
+			(justify left bottom)
+		)
+		(uuid "c30290f1-5468-48e3-8f7c-bb0b5fb0b594")
+	)
+	(label "DP1"
+		(at 241.3 36.83 0)
+		(effects
+			(font
+				(size 1.5748 1.5748)
+			)
+			(justify left bottom)
+		)
+		(uuid "c3fa80c7-ee86-4c16-bb0d-a2b1022ded80")
+	)
+	(label "DN1"
+		(at 143.51 87.63 0)
+		(effects
+			(font
+				(size 1.5748 1.5748)
+			)
+			(justify left bottom)
+		)
+		(uuid "c4c514cc-6498-4da3-ac74-c407ad9b0bfa")
+	)
+	(label "DP1"
+		(at 143.51 90.17 0)
+		(effects
+			(font
+				(size 1.5748 1.5748)
+			)
+			(justify left bottom)
+		)
+		(uuid "c942915d-9a74-457a-844e-20565c8be5c8")
+	)
+	(label "DN"
+		(at 143.51 92.71 0)
+		(effects
+			(font
+				(size 1.5748 1.5748)
+			)
+			(justify left bottom)
+		)
+		(uuid "ceb0d9eb-1d1f-4624-9cfb-a5676175db88")
+	)
+	(label "DP4"
+		(at 176.53 87.63 0)
+		(effects
+			(font
+				(size 1.5748 1.5748)
+			)
+			(justify left bottom)
+		)
+		(uuid "def0da5e-31e9-4c23-952e-c197c25e18cb")
+	)
+	(label "DN4"
+		(at 241.3 138.43 0)
+		(effects
+			(font
+				(size 1.5748 1.5748)
+			)
+			(justify left bottom)
+		)
+		(uuid "e013bb8b-fb46-4559-81af-7c047134f87a")
+	)
+	(label "DP2"
+		(at 143.51 85.09 0)
+		(effects
+			(font
+				(size 1.5748 1.5748)
+			)
+			(justify left bottom)
+		)
+		(uuid "f4f937f1-e17f-4768-94d2-0e0738e25c7a")
 	)
 	(symbol
-		(lib_id "portalusbh-easyedapro:Power-5V")
-		(at 227.33 135.89 0)
+		(lib_id "portalhub-easyedapro:10.0 QHHTZB6.3")
+		(at 259.08 109.22 0)
 		(unit 1)
 		(body_style 0)
 		(exclude_from_sim no)
@@ -4412,9 +4412,158 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(uuid "0426b10a-2d09-4f50-95f4-0fb8eeaa4a02")
+		(uuid "038d7481-c4e6-4b47-99bd-04912eab3454")
+		(property "Reference" "USB3"
+			(at 269.24 78.74 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.5748 1.5748)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "10.0 QHHTZB6.3"
+			(at 270.51 100.076 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.5748 1.5748)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "portalhub-easyedapro:USB-A-TH_10.0QHHTZB6.3"
+			(at 259.08 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://item.szlcsc.com/datasheet/10.0%2520QHHTZB6.3/698534.html"
+			(at 259.08 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 259.08 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part" "10.0 QHHTZB6.3"
+			(at 259.08 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "SHOU HAN(首韩)"
+			(at 259.08 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Supplier Part" "C668591"
+			(at 259.08 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Supplier" "LCSC"
+			(at 259.08 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part Name" "壳长10.0mm"
+			(at 259.08 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "5"
+			(uuid "5de0eea1-c170-4f13-be13-3485933cc178")
+		)
+		(pin "4"
+			(uuid "7d1f4a60-f54a-4ac4-8eb8-07be25255c59")
+		)
+		(pin "1"
+			(uuid "a01a8acc-22b0-410b-a5b6-6d6a33ad1b71")
+		)
+		(pin "2"
+			(uuid "e656624f-ed16-4ec6-8541-cce1f9e9c725")
+		)
+		(pin "3"
+			(uuid "81297e76-bb21-4d86-8bdd-75546f91e616")
+		)
+		(pin "6"
+			(uuid "854bd9f0-6de3-420a-825a-3535f51ab3c0")
+		)
+		(instances
+			(project "portalhub"
+				(path "/0e4864ec-c96c-4945-b96a-3daed380265b"
+					(reference "USB3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "portalhub-easyedapro:Power-5V")
+		(at 227.33 69.85 0)
+		(unit 1)
+		(body_style 0)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "1d9e77f9-cef8-44eb-8d7c-e10b1a5e9af8")
 		(property "Reference" "#PWR?"
-			(at 227.33 135.89 0)
+			(at 227.33 69.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4425,7 +4574,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 227.33 132.08 0)
+			(at 227.33 66.04 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4434,8 +4583,8 @@
 				)
 			)
 		)
-		(property "Footprint" "portalusbh-easyedapro:"
-			(at 227.33 135.89 0)
+		(property "Footprint" "portalhub-easyedapro:"
+			(at 227.33 69.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4446,7 +4595,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 227.33 135.89 0)
+			(at 227.33 69.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4457,7 +4606,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 227.33 135.89 0)
+			(at 227.33 69.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4468,11 +4617,11 @@
 			)
 		)
 		(pin "1"
-			(uuid "4bf82a50-4fb9-4310-9391-5370ba6affcd")
+			(uuid "1afb0660-e901-44ce-9bbc-b135b3199cf5")
 		)
 		(instances
-			(project "portalusbhub"
-				(path "/9385e21f-1220-4893-8da3-3b0d5c506998"
+			(project "portalhub"
+				(path "/0e4864ec-c96c-4945-b96a-3daed380265b"
 					(reference "#PWR?")
 					(unit 1)
 				)
@@ -4480,8 +4629,8 @@
 		)
 	)
 	(symbol
-		(lib_id "portalusbh-easyedapro:CAP")
-		(at 200.66 116.84 90)
+		(lib_id "portalhub-easyedapro:Ground-GND")
+		(at 241.3 111.76 0)
 		(unit 1)
 		(body_style 0)
 		(exclude_from_sim no)
@@ -4489,90 +4638,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(uuid "09cc0907-b5aa-4e5e-bbc7-e620f121ea57")
-		(property "Reference" "C9"
-			(at 204.47 118.11 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.5748 1.5748)
-				)
-				(justify right top)
-			)
-		)
-		(property "Value" "100nF"
-			(at 204.47 120.65 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.5748 1.5748)
-				)
-				(justify right top)
-			)
-		)
-		(property "Footprint" "portalusbh-easyedapro:C0603"
-			(at 200.66 116.84 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 200.66 116.84 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 200.66 116.84 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "fe4a124a-9650-4ef3-ad77-a1b64f2fbdb1")
-		)
-		(pin "2"
-			(uuid "79e6d143-52f9-4908-b1e2-8e64935217c9")
-		)
-		(instances
-			(project "portalusbhub"
-				(path "/9385e21f-1220-4893-8da3-3b0d5c506998"
-					(reference "C9")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "portalusbh-easyedapro:Ground-GND")
-		(at 229.87 114.3 0)
-		(unit 1)
-		(body_style 0)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "0fd3651f-5baa-4565-a85f-bc08384e2c36")
+		(uuid "1f362066-6cec-405d-a429-806b496ac99e")
 		(property "Reference" "#PWR?"
-			(at 229.87 114.3 0)
+			(at 241.3 111.76 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4583,7 +4651,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 229.87 120.65 0)
+			(at 241.3 118.11 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4592,8 +4660,8 @@
 				)
 			)
 		)
-		(property "Footprint" "portalusbh-easyedapro:"
-			(at 229.87 114.3 0)
+		(property "Footprint" "portalhub-easyedapro:"
+			(at 241.3 111.76 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4604,7 +4672,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 229.87 114.3 0)
+			(at 241.3 111.76 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4615,7 +4683,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 229.87 114.3 0)
+			(at 241.3 111.76 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4626,11 +4694,11 @@
 			)
 		)
 		(pin "1"
-			(uuid "cda5b3bb-ff4e-4b91-b78f-d9544ed2aebe")
+			(uuid "b8feb061-634f-4dea-a817-21fe4870da3d")
 		)
 		(instances
-			(project "portalusbhub"
-				(path "/9385e21f-1220-4893-8da3-3b0d5c506998"
+			(project "portalhub"
+				(path "/0e4864ec-c96c-4945-b96a-3daed380265b"
 					(reference "#PWR?")
 					(unit 1)
 				)
@@ -4638,7 +4706,165 @@
 		)
 	)
 	(symbol
-		(lib_id "portalusbh-easyedapro:SL2.1S")
+		(lib_id "portalhub-easyedapro:CAP")
+		(at 134.62 102.87 90)
+		(unit 1)
+		(body_style 0)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "223dc89f-667a-4ee3-a095-170b005c6d09")
+		(property "Reference" "C5"
+			(at 138.43 104.14 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.5748 1.5748)
+				)
+				(justify right top)
+			)
+		)
+		(property "Value" "100nF"
+			(at 138.43 106.68 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.5748 1.5748)
+				)
+				(justify right top)
+			)
+		)
+		(property "Footprint" "portalhub-easyedapro:C0603"
+			(at 134.62 102.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 134.62 102.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 134.62 102.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "853ffe6e-b40c-4212-b8bf-36c2ddf6ca9d")
+		)
+		(pin "2"
+			(uuid "1246ba33-5a2f-4011-a6df-abaf0b6d6148")
+		)
+		(instances
+			(project "portalhub"
+				(path "/0e4864ec-c96c-4945-b96a-3daed380265b"
+					(reference "C5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "portalhub-easyedapro:Power-5V")
+		(at 92.71 73.66 0)
+		(unit 1)
+		(body_style 0)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "25de53fb-9434-44b2-9728-4808e9a1c810")
+		(property "Reference" "#PWR?"
+			(at 92.71 73.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+5V"
+			(at 92.71 69.85 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.5748 1.5748)
+				)
+			)
+		)
+		(property "Footprint" "portalhub-easyedapro:"
+			(at 92.71 73.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 92.71 73.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 92.71 73.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "76ef4d49-6657-427e-ae13-fcf3b97b9610")
+		)
+		(instances
+			(project "portalhub"
+				(path "/0e4864ec-c96c-4945-b96a-3daed380265b"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "portalhub-easyedapro:SL2.1S")
 		(at 162.56 91.44 0)
 		(unit 1)
 		(body_style 0)
@@ -4647,7 +4873,7 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(uuid "11647069-78fa-4e00-9466-1edf0a40d707")
+		(uuid "29546a06-a6db-4208-bd5f-89d0fb7b2343")
 		(property "Reference" "U1"
 			(at 153.67 80.01 0)
 			(show_name no)
@@ -4670,7 +4896,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "portalusbh-easyedapro:SSOP-16_L4.6-W2.6-P0.53-LS4.0-BL"
+		(property "Footprint" "portalhub-easyedapro:SSOP-16_L4.6-W2.6-P0.53-LS4.0-BL"
 			(at 162.56 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -4758,57 +4984,57 @@
 				)
 			)
 		)
-		(pin "7"
-			(uuid "49d711e3-3124-44d2-ae34-f09e611efbc3")
-		)
-		(pin "3"
-			(uuid "9efabbf1-9c02-4d88-9787-839b1b06821f")
-		)
-		(pin "12"
-			(uuid "d264d9ca-666f-49f8-9193-0f46b7f4e64a")
-		)
-		(pin "16"
-			(uuid "46355dda-cdf7-4e52-b3cb-9fe44aee0be8")
-		)
-		(pin "2"
-			(uuid "8fcd9c1c-ac9d-40aa-ba32-85f63a7749de")
-		)
-		(pin "13"
-			(uuid "def7ab62-b755-421f-a41c-93e07fc03f15")
-		)
-		(pin "14"
-			(uuid "7d2fe4ef-7bb8-49cf-99c7-f37b18b6d5c4")
-		)
-		(pin "8"
-			(uuid "9f72e610-d1c9-4b20-9dd6-e948f5ee4a07")
-		)
-		(pin "1"
-			(uuid "e7adc55d-0318-4f90-8153-79ca7b9bc6fe")
+		(pin "9"
+			(uuid "b0baa063-8742-4a69-98ac-71264a19052b")
 		)
 		(pin "5"
-			(uuid "a5612efe-b541-49c0-997c-353fc7427778")
+			(uuid "7b3440c9-94fc-47cb-ba02-dd21720a178a")
 		)
-		(pin "4"
-			(uuid "c9f2b97a-08fa-4d1e-996a-3e82497dafc6")
-		)
-		(pin "6"
-			(uuid "eab29e9d-e203-434c-91a2-e0705cdab9df")
-		)
-		(pin "10"
-			(uuid "1e2bf2f9-ae64-4d18-be61-2dadad4017da")
-		)
-		(pin "11"
-			(uuid "f28e99f8-bea2-48c5-91b0-9689f6842d0e")
-		)
-		(pin "9"
-			(uuid "1fecfe16-4c78-461c-97d1-710368b71c99")
+		(pin "8"
+			(uuid "14962255-db90-46f2-b305-fc0f735f56f8")
 		)
 		(pin "15"
-			(uuid "99329cd3-5fc0-4418-b376-9b449ded91fc")
+			(uuid "d6bfae2f-5c94-42b6-88ed-9215c7f1b481")
+		)
+		(pin "12"
+			(uuid "b98e4ead-ea7a-472b-9338-9ed9983a32e2")
+		)
+		(pin "1"
+			(uuid "a91a7a13-5c13-4ad9-980e-1c523b91b4bb")
+		)
+		(pin "13"
+			(uuid "d3b8d55f-e663-44d1-810d-6a9d30e2e25c")
+		)
+		(pin "4"
+			(uuid "19107886-5b62-48bc-82a4-932fde8b0421")
+		)
+		(pin "6"
+			(uuid "edc7d529-b3b4-41f6-9dd8-92724c4f0c55")
+		)
+		(pin "16"
+			(uuid "a610b907-9b70-494f-9b20-249e26c372d7")
+		)
+		(pin "11"
+			(uuid "c310847b-3b6f-4fe4-9238-1a9678ceb121")
+		)
+		(pin "7"
+			(uuid "689c0aaa-e735-45bf-a1c6-ccd46d16e1c9")
+		)
+		(pin "10"
+			(uuid "a437cc16-72d5-452a-a122-40c8cf311d67")
+		)
+		(pin "2"
+			(uuid "ced45713-3c42-479a-b477-7b4099960489")
+		)
+		(pin "3"
+			(uuid "7bb279d9-fba1-4526-b137-493e51493a41")
+		)
+		(pin "14"
+			(uuid "91246927-b6cf-464e-8609-0d31fdb2cd6b")
 		)
 		(instances
-			(project "portalusbhub"
-				(path "/9385e21f-1220-4893-8da3-3b0d5c506998"
+			(project "portalhub"
+				(path "/0e4864ec-c96c-4945-b96a-3daed380265b"
 					(reference "U1")
 					(unit 1)
 				)
@@ -4816,8 +5042,8 @@
 		)
 	)
 	(symbol
-		(lib_id "portalusbh-easyedapro:Ground-GND")
-		(at 228.6 41.91 0)
+		(lib_id "portalhub-easyedapro:10.0 QHHTZB6.3")
+		(at 259.08 36.83 0)
 		(unit 1)
 		(body_style 0)
 		(exclude_from_sim no)
@@ -4825,163 +5051,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(uuid "12c6183f-f789-4be0-8662-a4f274e257c9")
-		(property "Reference" "#PWR?"
-			(at 228.6 41.91 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 228.6 48.26 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.5748 1.5748)
-				)
-			)
-		)
-		(property "Footprint" "portalusbh-easyedapro:"
-			(at 228.6 41.91 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 228.6 41.91 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 228.6 41.91 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "79ea0bee-e450-4844-9844-72dfc385c159")
-		)
-		(instances
-			(project "portalusbhub"
-				(path "/9385e21f-1220-4893-8da3-3b0d5c506998"
-					(reference "#PWR?")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "portalusbh-easyedapro:Ground-GND")
-		(at 274.32 129.54 0)
-		(unit 1)
-		(body_style 0)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "197bb03b-9bc6-429e-878e-e1e6be4faf27")
-		(property "Reference" "#PWR?"
-			(at 274.32 129.54 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 274.32 135.89 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.5748 1.5748)
-				)
-			)
-		)
-		(property "Footprint" "portalusbh-easyedapro:"
-			(at 274.32 129.54 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 274.32 129.54 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 274.32 129.54 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "055a2524-8ac9-462b-9045-fd24caa00086")
-		)
-		(instances
-			(project "portalusbhub"
-				(path "/9385e21f-1220-4893-8da3-3b0d5c506998"
-					(reference "#PWR?")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "portalusbh-easyedapro:10.0 QHHTZB6.3")
-		(at 259.08 140.97 0)
-		(unit 1)
-		(body_style 0)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "287f7b2e-6ca5-4df7-994f-45d3991713dc")
-		(property "Reference" "USB4"
-			(at 270.51 128.27 0)
+		(uuid "3162dd49-8075-4df7-bbb3-9d622ab9c4d0")
+		(property "Reference" "USB1"
+			(at 270.51 31.75 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4992,7 +5064,7 @@
 			)
 		)
 		(property "Value" "10.0 QHHTZB6.3"
-			(at 270.51 131.826 0)
+			(at 270.51 34.29 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5003,8 +5075,8 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "portalusbh-easyedapro:USB-A-TH_10.0QHHTZB6.3"
-			(at 259.08 140.97 0)
+		(property "Footprint" "portalhub-easyedapro:USB-A-TH_10.0QHHTZB6.3"
+			(at 259.08 36.83 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5015,7 +5087,7 @@
 			)
 		)
 		(property "Datasheet" "https://item.szlcsc.com/datasheet/10.0%2520QHHTZB6.3/698534.html"
-			(at 259.08 140.97 0)
+			(at 259.08 36.83 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5026,7 +5098,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 259.08 140.97 0)
+			(at 259.08 36.83 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5037,7 +5109,7 @@
 			)
 		)
 		(property "Manufacturer Part" "10.0 QHHTZB6.3"
-			(at 259.08 140.97 0)
+			(at 259.08 36.83 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5048,7 +5120,7 @@
 			)
 		)
 		(property "Manufacturer" "SHOU HAN(首韩)"
-			(at 259.08 140.97 0)
+			(at 259.08 36.83 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5059,7 +5131,7 @@
 			)
 		)
 		(property "Supplier Part" "C668591"
-			(at 259.08 140.97 0)
+			(at 259.08 36.83 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5070,7 +5142,7 @@
 			)
 		)
 		(property "Supplier" "LCSC"
-			(at 259.08 140.97 0)
+			(at 259.08 36.83 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5081,7 +5153,7 @@
 			)
 		)
 		(property "LCSC Part Name" "壳长10.0mm"
-			(at 259.08 140.97 0)
+			(at 259.08 36.83 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5090,1764 +5162,36 @@
 					(size 1.27 1.27)
 				)
 			)
-		)
-		(pin "4"
-			(uuid "c355e550-64a6-4d99-b889-0d42c0f5c91a")
-		)
-		(pin "3"
-			(uuid "f5a61850-4db7-4063-a3cf-3ab4f1879adf")
-		)
-		(pin "2"
-			(uuid "a07b738e-0f73-4075-8f22-a3568b8b7143")
-		)
-		(pin "1"
-			(uuid "65c3fe80-2a54-4ff6-9538-a67089e20a41")
-		)
-		(pin "5"
-			(uuid "94933ae9-53cd-462b-86f1-8e3cb78f20f4")
 		)
 		(pin "6"
-			(uuid "35c78fbe-2fbc-41b5-a4c9-16c5e049d60e")
-		)
-		(instances
-			(project "portalusbhub"
-				(path "/9385e21f-1220-4893-8da3-3b0d5c506998"
-					(reference "USB4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "portalusbh-easyedapro:Ground-GND")
-		(at 148.59 100.33 0)
-		(unit 1)
-		(body_style 0)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "2989d2f3-2fd9-4157-9d9b-bd93bcc8be0b")
-		(property "Reference" "#PWR?"
-			(at 148.59 100.33 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 148.59 106.68 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.5748 1.5748)
-				)
-			)
-		)
-		(property "Footprint" "portalusbh-easyedapro:"
-			(at 148.59 100.33 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 148.59 100.33 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 148.59 100.33 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "f19bbd21-76f6-4bca-8f4b-b3d60fdb732d")
-		)
-		(instances
-			(project "portalusbhub"
-				(path "/9385e21f-1220-4893-8da3-3b0d5c506998"
-					(reference "#PWR?")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "portalusbh-easyedapro:CAP")
-		(at 189.23 116.84 90)
-		(unit 1)
-		(body_style 0)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "2b1b2a2d-e9f4-432b-b9e3-e1830e294401")
-		(property "Reference" "C10"
-			(at 193.04 116.84 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.5748 1.5748)
-				)
-				(justify right top)
-			)
-		)
-		(property "Value" "100nF"
-			(at 193.04 119.38 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.5748 1.5748)
-				)
-				(justify right top)
-			)
-		)
-		(property "Footprint" "portalusbh-easyedapro:C0603"
-			(at 189.23 116.84 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 189.23 116.84 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 189.23 116.84 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "a623a288-3a3b-4ffa-a180-bc19277ad464")
+			(uuid "0eaa1f09-cb12-4c95-90d5-354779925ef3")
 		)
 		(pin "2"
-			(uuid "da9078ea-d9d9-4338-8c32-015d4bde5d10")
-		)
-		(instances
-			(project "portalusbhub"
-				(path "/9385e21f-1220-4893-8da3-3b0d5c506998"
-					(reference "C10")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "portalusbh-easyedapro:TYPE-C 16PIN 2MD(073)")
-		(at 66.04 62.23 180)
-		(unit 1)
-		(body_style 0)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "320989f5-e0e6-45ab-b44c-3513d8ed76cb")
-		(property "Reference" "USBIN"
-			(at 59.69 45.72 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.5748 1.5748)
-				)
-				(justify right top)
-			)
-		)
-		(property "Value" "TYPE-C 16PIN 2MD(073)"
-			(at 59.69 81.28 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.5748 1.5748)
-				)
-				(justify right top)
-			)
-		)
-		(property "Footprint" "portalusbh-easyedapro:USB-C-SMD_TYPE-C-16PIN-2MD-073"
-			(at 66.04 62.23 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" "https://item.szlcsc.com/datasheet/TYPE-C%252016PIN%25202MD(073)/2901843.html"
-			(at 66.04 62.23 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 66.04 62.23 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer Part" "TYPE-C 16PIN 2MD(073)"
-			(at 66.04 62.23 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "SHOU HAN(首韩)"
-			(at 66.04 62.23 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Supplier Part" "C2765186"
-			(at 66.04 62.23 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Supplier" "LCSC"
-			(at 66.04 62.23 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "LCSC Part Name" "Type-C 母 卧贴"
-			(at 66.04 62.23 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "A1B12"
-			(uuid "7cb01a9a-d295-4490-a2a9-9edfa6df44c7")
-		)
-		(pin "13"
-			(uuid "dcaa9c21-1b2d-4905-b654-177c8c13e190")
-		)
-		(pin "B1A12"
-			(uuid "7862e19a-a8f3-47d9-88ad-4e61b998345b")
-		)
-		(pin "B6"
-			(uuid "9b2bd1ed-9c1d-4be9-bf0a-2a18b8d85933")
-		)
-		(pin "B8"
-			(uuid "5f01e794-3e3a-4bfd-8371-810cb5e24f21")
-		)
-		(pin "14"
-			(uuid "011176a1-9d5b-41b2-b1a7-2e91b46e4a72")
-		)
-		(pin "A4B9"
-			(uuid "7d2d42cd-d611-4c1a-9b0c-1aa133ef36e8")
-		)
-		(pin "A5"
-			(uuid "44945a82-64a0-48cb-818e-d5f149d84df6")
-		)
-		(pin "A6"
-			(uuid "1042727a-0be3-44fa-8daa-1108e27d8267")
-		)
-		(pin "A8"
-			(uuid "d4669513-d776-405e-9fbc-576ad873e164")
-		)
-		(pin "A7"
-			(uuid "ba67deb3-31c5-4a52-81b6-b46b57886b20")
-		)
-		(pin "B4A9"
-			(uuid "fef69686-d66e-49c4-813e-ff80aacb92e6")
-		)
-		(pin "B5"
-			(uuid "71a6a6e2-a122-4ec2-9596-48f457224368")
-		)
-		(pin "B7"
-			(uuid "ae76b7ad-0159-4395-a211-10f0feeb30c3")
-		)
-		(instances
-			(project "portalusbhub"
-				(path "/9385e21f-1220-4893-8da3-3b0d5c506998"
-					(reference "USBIN")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "portalusbh-easyedapro:Ground-GND")
-		(at 92.71 36.83 0)
-		(unit 1)
-		(body_style 0)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "3239e105-58d7-404d-8498-057394e70bf3")
-		(property "Reference" "#PWR?"
-			(at 92.71 36.83 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 92.71 43.18 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.5748 1.5748)
-				)
-			)
-		)
-		(property "Footprint" "portalusbh-easyedapro:"
-			(at 92.71 36.83 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 92.71 36.83 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 92.71 36.83 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "7d0a6102-53e7-43d0-9bcb-8e0ec7480d9e")
-		)
-		(instances
-			(project "portalusbhub"
-				(path "/9385e21f-1220-4893-8da3-3b0d5c506998"
-					(reference "#PWR?")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "portalusbh-easyedapro:Ground-GND")
-		(at 52.07 76.2 0)
-		(unit 1)
-		(body_style 0)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "35b05033-8892-419b-8a07-e234296262df")
-		(property "Reference" "#PWR?"
-			(at 52.07 76.2 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 52.07 82.55 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.5748 1.5748)
-				)
-			)
-		)
-		(property "Footprint" "portalusbh-easyedapro:"
-			(at 52.07 76.2 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 52.07 76.2 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 52.07 76.2 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "2b1cbd50-8241-4a4b-9a1c-fa84a2e2ef6b")
-		)
-		(instances
-			(project "portalusbhub"
-				(path "/9385e21f-1220-4893-8da3-3b0d5c506998"
-					(reference "#PWR?")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "portalusbh-easyedapro:Ground-GND")
-		(at 189.23 121.92 0)
-		(unit 1)
-		(body_style 0)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "36df3ca0-9a1a-4211-8938-cee555eb7432")
-		(property "Reference" "#PWR?"
-			(at 189.23 121.92 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 189.23 128.27 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.5748 1.5748)
-				)
-			)
-		)
-		(property "Footprint" "portalusbh-easyedapro:"
-			(at 189.23 121.92 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 189.23 121.92 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 189.23 121.92 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "d95e7ddc-fdb7-4f95-9f6f-94b7741576a9")
-		)
-		(instances
-			(project "portalusbhub"
-				(path "/9385e21f-1220-4893-8da3-3b0d5c506998"
-					(reference "#PWR?")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "portalusbh-easyedapro:Ground-GND")
-		(at 241.3 111.76 0)
-		(unit 1)
-		(body_style 0)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "38fea41e-92d9-4b29-b75c-78f23dee93a5")
-		(property "Reference" "#PWR?"
-			(at 241.3 111.76 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 241.3 118.11 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.5748 1.5748)
-				)
-			)
-		)
-		(property "Footprint" "portalusbh-easyedapro:"
-			(at 241.3 111.76 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 241.3 111.76 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 241.3 111.76 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "d9c5d41a-8dad-493b-af86-00f8702cae34")
-		)
-		(instances
-			(project "portalusbhub"
-				(path "/9385e21f-1220-4893-8da3-3b0d5c506998"
-					(reference "#PWR?")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "portalusbh-easyedapro:Ground-GND")
-		(at 227.33 146.05 0)
-		(unit 1)
-		(body_style 0)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "3c1f904d-5c22-4bba-958c-e1e56ebcdd8a")
-		(property "Reference" "#PWR?"
-			(at 227.33 146.05 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 227.33 152.4 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.5748 1.5748)
-				)
-			)
-		)
-		(property "Footprint" "portalusbh-easyedapro:"
-			(at 227.33 146.05 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 227.33 146.05 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 227.33 146.05 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "ca8044c9-df19-4a74-8f79-bd7360cf058b")
-		)
-		(instances
-			(project "portalusbhub"
-				(path "/9385e21f-1220-4893-8da3-3b0d5c506998"
-					(reference "#PWR?")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "portalusbh-easyedapro:Res")
-		(at 105.41 74.93 90)
-		(unit 1)
-		(body_style 0)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "3cf2b0e1-3fe5-4ce0-9412-d2fa9c76628f")
-		(property "Reference" "R1"
-			(at 107.95 74.93 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.5748 1.5748)
-				)
-				(justify right top)
-			)
-		)
-		(property "Value" "10K"
-			(at 107.95 77.47 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.5748 1.5748)
-				)
-				(justify right top)
-			)
-		)
-		(property "Footprint" "portalusbh-easyedapro:R0603"
-			(at 105.41 74.93 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 105.41 74.93 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 105.41 74.93 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "0eef2243-be25-40cd-90b0-69e007ec2504")
-		)
-		(pin "1"
-			(uuid "a619f32d-87b2-40e9-ad52-53a565c22e4c")
-		)
-		(instances
-			(project "portalusbhub"
-				(path "/9385e21f-1220-4893-8da3-3b0d5c506998"
-					(reference "R1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "portalusbh-easyedapro:Ground-GND")
-		(at 283.21 48.26 0)
-		(unit 1)
-		(body_style 0)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "49ba8f7f-0980-4064-8b88-3c01e6884f17")
-		(property "Reference" "#PWR?"
-			(at 283.21 48.26 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 283.21 54.61 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.5748 1.5748)
-				)
-			)
-		)
-		(property "Footprint" "portalusbh-easyedapro:"
-			(at 283.21 48.26 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 283.21 48.26 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 283.21 48.26 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "5807e2eb-4d77-4984-96f2-a0bad023e205")
-		)
-		(instances
-			(project "portalusbhub"
-				(path "/9385e21f-1220-4893-8da3-3b0d5c506998"
-					(reference "#PWR?")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "portalusbh-easyedapro:10.0 QHHTZB6.3")
-		(at 259.08 74.93 0)
-		(unit 1)
-		(body_style 0)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "4e52cee5-c7c6-4af3-a7f0-21dbbd205d52")
-		(property "Reference" "USB2"
-			(at 270.51 62.23 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.5748 1.5748)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Value" "10.0 QHHTZB6.3"
-			(at 270.51 65.786 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.5748 1.5748)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" "portalusbh-easyedapro:USB-A-TH_10.0QHHTZB6.3"
-			(at 259.08 74.93 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" "https://item.szlcsc.com/datasheet/10.0%2520QHHTZB6.3/698534.html"
-			(at 259.08 74.93 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 259.08 74.93 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer Part" "10.0 QHHTZB6.3"
-			(at 259.08 74.93 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "SHOU HAN(首韩)"
-			(at 259.08 74.93 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Supplier Part" "C668591"
-			(at 259.08 74.93 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Supplier" "LCSC"
-			(at 259.08 74.93 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "LCSC Part Name" "壳长10.0mm"
-			(at 259.08 74.93 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "034b0e62-6f69-4bdd-94b9-16cef74adcd4")
-		)
-		(pin "2"
-			(uuid "710ed0ea-e9ea-4733-8ceb-c9f4c7d35b3d")
+			(uuid "0998d6ad-6af8-4116-83a9-63ba40b8be4f")
 		)
 		(pin "4"
-			(uuid "15314abd-54e6-4125-bfcd-df25769d65a2")
-		)
-		(pin "3"
-			(uuid "a72e7567-7866-431a-9026-efee9534c26f")
+			(uuid "d1ffe21c-e2a9-4ca9-87d4-aaace92359ac")
 		)
 		(pin "5"
-			(uuid "ae19765e-6db9-46cc-9287-13c98dce04fb")
-		)
-		(pin "6"
-			(uuid "72ddf0a7-b570-4364-b9dc-1cac93fd16e6")
-		)
-		(instances
-			(project "portalusbhub"
-				(path "/9385e21f-1220-4893-8da3-3b0d5c506998"
-					(reference "USB2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "portalusbh-easyedapro:Ground-GND")
-		(at 241.3 77.47 0)
-		(unit 1)
-		(body_style 0)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "5ab47caf-78c4-474c-9ab4-a0c7161b9e6f")
-		(property "Reference" "#PWR?"
-			(at 241.3 77.47 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 241.3 83.82 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.5748 1.5748)
-				)
-			)
-		)
-		(property "Footprint" "portalusbh-easyedapro:"
-			(at 241.3 77.47 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 241.3 77.47 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 241.3 77.47 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
+			(uuid "6b8fa695-8bd1-42d9-8878-ce3db4cafbfd")
 		)
 		(pin "1"
-			(uuid "54328d3c-987c-4434-8be8-ceb6d373a113")
+			(uuid "96d4e6a5-2950-4bb9-bc68-3cf4f7638aac")
+		)
+		(pin "3"
+			(uuid "4a2530f4-5eb7-454f-a075-73240726c474")
 		)
 		(instances
-			(project "portalusbhub"
-				(path "/9385e21f-1220-4893-8da3-3b0d5c506998"
-					(reference "#PWR?")
+			(project "portalhub"
+				(path "/0e4864ec-c96c-4945-b96a-3daed380265b"
+					(reference "USB1")
 					(unit 1)
 				)
 			)
 		)
 	)
 	(symbol
-		(lib_id "portalusbh-easyedapro:Res")
-		(at 114.3 74.93 90)
-		(unit 1)
-		(body_style 0)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "5b41d93c-8a73-4880-9962-fdf7319913ed")
-		(property "Reference" "R2"
-			(at 116.84 74.93 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.5748 1.5748)
-				)
-				(justify right top)
-			)
-		)
-		(property "Value" "10K"
-			(at 116.84 77.47 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.5748 1.5748)
-				)
-				(justify right top)
-			)
-		)
-		(property "Footprint" "portalusbh-easyedapro:R0603"
-			(at 114.3 74.93 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 114.3 74.93 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 114.3 74.93 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "b77e7b6c-2c21-434d-8d9a-6fd9c4dc5106")
-		)
-		(pin "2"
-			(uuid "e2ae954e-5899-4907-a9d0-27a2a7b471ee")
-		)
-		(instances
-			(project "portalusbhub"
-				(path "/9385e21f-1220-4893-8da3-3b0d5c506998"
-					(reference "R2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "portalusbh-easyedapro:Power-5V")
-		(at 228.6 29.21 0)
-		(unit 1)
-		(body_style 0)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "60c5ca1d-1401-4254-8896-169c89e60d19")
-		(property "Reference" "#PWR?"
-			(at 228.6 29.21 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "+5V"
-			(at 228.6 25.4 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.5748 1.5748)
-				)
-			)
-		)
-		(property "Footprint" "portalusbh-easyedapro:"
-			(at 228.6 29.21 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 228.6 29.21 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 228.6 29.21 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "7a13ddfb-f05a-49a2-84bc-c70135ebff46")
-		)
-		(instances
-			(project "portalusbhub"
-				(path "/9385e21f-1220-4893-8da3-3b0d5c506998"
-					(reference "#PWR?")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "portalusbh-easyedapro:CAP")
-		(at 160.02 116.84 90)
-		(unit 1)
-		(body_style 0)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "689ad0dd-d16c-49f8-9c03-e25fab07bf7e")
-		(property "Reference" "C8"
-			(at 163.83 116.84 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.5748 1.5748)
-				)
-				(justify right top)
-			)
-		)
-		(property "Value" "100nF"
-			(at 163.83 119.38 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.5748 1.5748)
-				)
-				(justify right top)
-			)
-		)
-		(property "Footprint" "portalusbh-easyedapro:C0603"
-			(at 160.02 116.84 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 160.02 116.84 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 160.02 116.84 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "feb2e310-28ba-4eb9-ae75-75564571fe03")
-		)
-		(pin "2"
-			(uuid "73f59339-80c5-4f99-9b58-2d82d82971c6")
-		)
-		(instances
-			(project "portalusbhub"
-				(path "/9385e21f-1220-4893-8da3-3b0d5c506998"
-					(reference "C8")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "portalusbh-easyedapro:Ground-GND")
-		(at 160.02 121.92 0)
-		(unit 1)
-		(body_style 0)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "6ad1f570-7521-44f6-a67f-69e764d82909")
-		(property "Reference" "#PWR?"
-			(at 160.02 121.92 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 160.02 128.27 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.5748 1.5748)
-				)
-			)
-		)
-		(property "Footprint" "portalusbh-easyedapro:"
-			(at 160.02 121.92 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 160.02 121.92 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 160.02 121.92 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "5112b6c7-62f0-413e-a194-e08c24b76098")
-		)
-		(instances
-			(project "portalusbhub"
-				(path "/9385e21f-1220-4893-8da3-3b0d5c506998"
-					(reference "#PWR?")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "portalusbh-easyedapro:Ground-GND")
-		(at 238.76 39.37 0)
-		(unit 1)
-		(body_style 0)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "7ee63668-b2aa-411a-b464-3403fb212942")
-		(property "Reference" "#PWR?"
-			(at 238.76 39.37 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 238.76 45.72 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.5748 1.5748)
-				)
-			)
-		)
-		(property "Footprint" "portalusbh-easyedapro:"
-			(at 238.76 39.37 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 238.76 39.37 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 238.76 39.37 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "76b192d7-7849-4d9b-8df8-102711a30206")
-		)
-		(instances
-			(project "portalusbhub"
-				(path "/9385e21f-1220-4893-8da3-3b0d5c506998"
-					(reference "#PWR?")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "portalusbh-easyedapro:Power-5V")
-		(at 134.62 95.25 0)
-		(unit 1)
-		(body_style 0)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "7f9295b3-52dc-46cc-97cd-53d525b2db30")
-		(property "Reference" "#PWR?"
-			(at 134.62 95.25 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "+5V"
-			(at 134.62 91.44 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.5748 1.5748)
-				)
-			)
-		)
-		(property "Footprint" "portalusbh-easyedapro:"
-			(at 134.62 95.25 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 134.62 95.25 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 134.62 95.25 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "80db0b3e-1d85-4802-8b08-820da2901d6f")
-		)
-		(instances
-			(project "portalusbhub"
-				(path "/9385e21f-1220-4893-8da3-3b0d5c506998"
-					(reference "#PWR?")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "portalusbh-easyedapro:CAP")
-		(at 134.62 102.87 90)
-		(unit 1)
-		(body_style 0)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "8c88c9cc-1dc0-4c5f-8674-afa10282df25")
-		(property "Reference" "C5"
-			(at 138.43 104.14 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.5748 1.5748)
-				)
-				(justify right top)
-			)
-		)
-		(property "Value" "100nF"
-			(at 138.43 106.68 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.5748 1.5748)
-				)
-				(justify right top)
-			)
-		)
-		(property "Footprint" "portalusbh-easyedapro:C0603"
-			(at 134.62 102.87 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 134.62 102.87 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 134.62 102.87 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "9baddffd-4461-43e6-b155-5b80004e5217")
-		)
-		(pin "2"
-			(uuid "6987de49-1545-4339-886b-a47512760b8f")
-		)
-		(instances
-			(project "portalusbhub"
-				(path "/9385e21f-1220-4893-8da3-3b0d5c506998"
-					(reference "C5")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "portalusbh-easyedapro:Ground-GND")
-		(at 275.59 151.13 0)
-		(unit 1)
-		(body_style 0)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "9a9f5fa7-e7b1-4040-914b-841bcaf7c68d")
-		(property "Reference" "#PWR?"
-			(at 275.59 151.13 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 275.59 157.48 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.5748 1.5748)
-				)
-			)
-		)
-		(property "Footprint" "portalusbh-easyedapro:"
-			(at 275.59 151.13 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 275.59 151.13 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 275.59 151.13 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "2d506497-b58b-4790-aae0-065a187dda4b")
-		)
-		(instances
-			(project "portalusbhub"
-				(path "/9385e21f-1220-4893-8da3-3b0d5c506998"
-					(reference "#PWR?")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "portalusbh-easyedapro:CAP")
+		(lib_id "portalhub-easyedapro:CAP")
 		(at 229.87 109.22 90)
 		(unit 1)
 		(body_style 0)
@@ -6856,7 +5200,7 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(uuid "9facab95-473c-4f89-a2f0-ac16ce46e8b5")
+		(uuid "34ed83f1-4ca8-4117-88cb-e79d136cec73")
 		(property "Reference" "C3"
 			(at 232.41 109.22 90)
 			(show_name no)
@@ -6879,7 +5223,7 @@
 				(justify right top)
 			)
 		)
-		(property "Footprint" "portalusbh-easyedapro:C0603"
+		(property "Footprint" "portalhub-easyedapro:C0603"
 			(at 229.87 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -6912,15 +5256,15 @@
 				)
 			)
 		)
-		(pin "1"
-			(uuid "a7470f30-6872-4500-8106-e6ae2f5d8b79")
-		)
 		(pin "2"
-			(uuid "dae86f65-95e2-4c70-a438-a12f0bb300f7")
+			(uuid "a61f32d4-61e9-460c-bf6f-e74c14ef3dc8")
+		)
+		(pin "1"
+			(uuid "3f979889-b9a3-4063-a485-ac54199788cb")
 		)
 		(instances
-			(project "portalusbhub"
-				(path "/9385e21f-1220-4893-8da3-3b0d5c506998"
+			(project "portalhub"
+				(path "/0e4864ec-c96c-4945-b96a-3daed380265b"
 					(reference "C3")
 					(unit 1)
 				)
@@ -6928,8 +5272,8 @@
 		)
 	)
 	(symbol
-		(lib_id "portalusbh-easyedapro:Ground-GND")
-		(at 274.32 96.52 0)
+		(lib_id "portalhub-easyedapro:Ground-GND")
+		(at 92.71 36.83 0)
 		(unit 1)
 		(body_style 0)
 		(exclude_from_sim no)
@@ -6937,9 +5281,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(uuid "a10327a7-7153-4963-b9fb-15351d7d19d5")
+		(uuid "385a429a-555d-48b3-a776-538dea079709")
 		(property "Reference" "#PWR?"
-			(at 274.32 96.52 0)
+			(at 92.71 36.83 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6950,7 +5294,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 274.32 102.87 0)
+			(at 92.71 43.18 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6959,8 +5303,8 @@
 				)
 			)
 		)
-		(property "Footprint" "portalusbh-easyedapro:"
-			(at 274.32 96.52 0)
+		(property "Footprint" "portalhub-easyedapro:"
+			(at 92.71 36.83 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6971,7 +5315,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 274.32 96.52 0)
+			(at 92.71 36.83 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6982,7 +5326,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 274.32 96.52 0)
+			(at 92.71 36.83 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6993,11 +5337,11 @@
 			)
 		)
 		(pin "1"
-			(uuid "df6d7515-c420-4a16-b12d-51dfcfbb95a2")
+			(uuid "1ebd013a-0664-43d9-97b6-64bce09b6a03")
 		)
 		(instances
-			(project "portalusbhub"
-				(path "/9385e21f-1220-4893-8da3-3b0d5c506998"
+			(project "portalhub"
+				(path "/0e4864ec-c96c-4945-b96a-3daed380265b"
 					(reference "#PWR?")
 					(unit 1)
 				)
@@ -7005,631 +5349,7 @@
 		)
 	)
 	(symbol
-		(lib_id "portalusbh-easyedapro:Ground-GND")
-		(at 241.3 143.51 0)
-		(unit 1)
-		(body_style 0)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "b03557ce-f2e7-49bf-bab9-c90a341689f0")
-		(property "Reference" "#PWR?"
-			(at 241.3 143.51 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 241.3 149.86 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.5748 1.5748)
-				)
-			)
-		)
-		(property "Footprint" "portalusbh-easyedapro:"
-			(at 241.3 143.51 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 241.3 143.51 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 241.3 143.51 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "bd3ce033-0179-40e4-b483-de9c06c96151")
-		)
-		(instances
-			(project "portalusbhub"
-				(path "/9385e21f-1220-4893-8da3-3b0d5c506998"
-					(reference "#PWR?")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "portalusbh-easyedapro:CAP")
-		(at 92.71 81.28 90)
-		(unit 1)
-		(body_style 0)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "b16a6fd4-cc14-4911-8897-4a62c9c57655")
-		(property "Reference" "CIN"
-			(at 95.25 81.28 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.5748 1.5748)
-				)
-				(justify right top)
-			)
-		)
-		(property "Value" "100nF"
-			(at 95.25 83.82 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.5748 1.5748)
-				)
-				(justify right top)
-			)
-		)
-		(property "Footprint" "portalusbh-easyedapro:C0603"
-			(at 92.71 81.28 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 92.71 81.28 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 92.71 81.28 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "7fde79d9-5959-4822-af46-c86522e2911c")
-		)
-		(pin "2"
-			(uuid "b3b781d1-806c-424b-9102-d84afd548e12")
-		)
-		(instances
-			(project "portalusbhub"
-				(path "/9385e21f-1220-4893-8da3-3b0d5c506998"
-					(reference "CIN")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "portalusbh-easyedapro:Ground-GND")
-		(at 105.41 80.01 0)
-		(unit 1)
-		(body_style 0)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "b22c1d64-02ec-4ae4-b364-a7f8b10efad4")
-		(property "Reference" "#PWR?"
-			(at 105.41 80.01 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 105.41 86.36 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.5748 1.5748)
-				)
-			)
-		)
-		(property "Footprint" "portalusbh-easyedapro:"
-			(at 105.41 80.01 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 105.41 80.01 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 105.41 80.01 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "94334d75-4987-434d-92e8-576cafe549a4")
-		)
-		(instances
-			(project "portalusbhub"
-				(path "/9385e21f-1220-4893-8da3-3b0d5c506998"
-					(reference "#PWR?")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "portalusbh-easyedapro:Ground-GND")
-		(at 195.58 86.36 0)
-		(unit 1)
-		(body_style 0)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "b2f7d123-bce7-4c82-a35e-d9db9d30fd27")
-		(property "Reference" "#PWR?"
-			(at 195.58 86.36 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 195.58 92.71 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.5748 1.5748)
-				)
-			)
-		)
-		(property "Footprint" "portalusbh-easyedapro:"
-			(at 195.58 86.36 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 195.58 86.36 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 195.58 86.36 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "9f0173ee-529a-451e-bc98-7ee8f385f927")
-		)
-		(instances
-			(project "portalusbhub"
-				(path "/9385e21f-1220-4893-8da3-3b0d5c506998"
-					(reference "#PWR?")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "portalusbh-easyedapro:Ground-GND")
-		(at 81.28 76.2 0)
-		(unit 1)
-		(body_style 0)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "b435c6cd-8e83-4aed-8c79-daf4e1052f48")
-		(property "Reference" "#PWR?"
-			(at 81.28 76.2 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 81.28 82.55 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.5748 1.5748)
-				)
-			)
-		)
-		(property "Footprint" "portalusbh-easyedapro:"
-			(at 81.28 76.2 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 81.28 76.2 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 81.28 76.2 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "7a868297-df25-496a-bbdc-2fe33bf726a1")
-		)
-		(instances
-			(project "portalusbhub"
-				(path "/9385e21f-1220-4893-8da3-3b0d5c506998"
-					(reference "#PWR?")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "portalusbh-easyedapro:CAP")
-		(at 227.33 140.97 90)
-		(unit 1)
-		(body_style 0)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "b4cfe2ff-6404-4f15-8662-cf04700cda84")
-		(property "Reference" "C4"
-			(at 229.87 140.97 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.5748 1.5748)
-				)
-				(justify right top)
-			)
-		)
-		(property "Value" "100nF"
-			(at 229.87 143.51 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.5748 1.5748)
-				)
-				(justify right top)
-			)
-		)
-		(property "Footprint" "portalusbh-easyedapro:C0603"
-			(at 227.33 140.97 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 227.33 140.97 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 227.33 140.97 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "e315ce0a-0bfd-483f-8e0b-5eeb838b2967")
-		)
-		(pin "2"
-			(uuid "8ac7a48a-1c4d-456a-b5cb-5b2c6508f38f")
-		)
-		(instances
-			(project "portalusbhub"
-				(path "/9385e21f-1220-4893-8da3-3b0d5c506998"
-					(reference "C4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "portalusbh-easyedapro:Power-5V")
-		(at 92.71 73.66 0)
-		(unit 1)
-		(body_style 0)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "b927ac79-c930-4d5d-9475-e3723ce8e841")
-		(property "Reference" "#PWR?"
-			(at 92.71 73.66 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "+5V"
-			(at 92.71 69.85 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.5748 1.5748)
-				)
-			)
-		)
-		(property "Footprint" "portalusbh-easyedapro:"
-			(at 92.71 73.66 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 92.71 73.66 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 92.71 73.66 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "bc04d120-f48f-4cf4-be01-fe8707bc672b")
-		)
-		(instances
-			(project "portalusbhub"
-				(path "/9385e21f-1220-4893-8da3-3b0d5c506998"
-					(reference "#PWR?")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "portalusbh-easyedapro:Ground-GND")
-		(at 281.94 119.38 0)
-		(unit 1)
-		(body_style 0)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "beecb902-1ded-43ab-a159-20c000d27980")
-		(property "Reference" "#PWR?"
-			(at 281.94 119.38 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 281.94 125.73 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.5748 1.5748)
-				)
-			)
-		)
-		(property "Footprint" "portalusbh-easyedapro:"
-			(at 281.94 119.38 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 281.94 119.38 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 281.94 119.38 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "b0b997d0-1208-422e-8c7f-fa07877c977e")
-		)
-		(instances
-			(project "portalusbhub"
-				(path "/9385e21f-1220-4893-8da3-3b0d5c506998"
-					(reference "#PWR?")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "portalusbh-easyedapro:Drawing-Symbol_A4")
+		(lib_id "portalhub-easyedapro:Drawing-Symbol_A4")
 		(at 0 209.55 0)
 		(unit 0)
 		(body_style 0)
@@ -7638,7 +5358,7 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(uuid "c0dea127-34a7-4090-b202-7ae87d8a1605")
+		(uuid "38adfa76-c4f1-4ce8-9733-8ce6d74e8176")
 		(property "Field42" ""
 			(at 0 209.55 0)
 			(show_name no)
@@ -7879,7 +5599,7 @@
 				)
 			)
 		)
-		(property "Footprint" "portalusbh-easyedapro:"
+		(property "Footprint" "portalhub-easyedapro:"
 			(at 0 209.55 0)
 			(hide yes)
 			(show_name no)
@@ -7914,8 +5634,8 @@
 			)
 		)
 		(instances
-			(project "portalusbhub"
-				(path "/9385e21f-1220-4893-8da3-3b0d5c506998"
+			(project "portalhub"
+				(path "/0e4864ec-c96c-4945-b96a-3daed380265b"
 					(reference "?")
 					(unit 0)
 				)
@@ -7923,848 +5643,7 @@
 		)
 	)
 	(symbol
-		(lib_id "portalusbh-easyedapro:10.0 QHHTZB6.3")
-		(at 259.08 109.22 0)
-		(unit 1)
-		(body_style 0)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "c9f10b47-ab54-498a-934c-2c2a2bb13107")
-		(property "Reference" "USB3"
-			(at 269.24 78.74 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.5748 1.5748)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Value" "10.0 QHHTZB6.3"
-			(at 270.51 100.076 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.5748 1.5748)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" "portalusbh-easyedapro:USB-A-TH_10.0QHHTZB6.3"
-			(at 259.08 109.22 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" "https://item.szlcsc.com/datasheet/10.0%2520QHHTZB6.3/698534.html"
-			(at 259.08 109.22 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 259.08 109.22 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer Part" "10.0 QHHTZB6.3"
-			(at 259.08 109.22 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "SHOU HAN(首韩)"
-			(at 259.08 109.22 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Supplier Part" "C668591"
-			(at 259.08 109.22 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Supplier" "LCSC"
-			(at 259.08 109.22 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "LCSC Part Name" "壳长10.0mm"
-			(at 259.08 109.22 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "5"
-			(uuid "ae3ab28d-daeb-4dd0-89d3-a91ecf5f13c5")
-		)
-		(pin "6"
-			(uuid "b166d5f1-1f41-4dad-be3d-3de4bbdc698c")
-		)
-		(pin "1"
-			(uuid "0d5e838b-71e6-412b-b370-ee4de02a9b12")
-		)
-		(pin "2"
-			(uuid "8a8d13d6-8e4d-473c-ace4-dc981647332a")
-		)
-		(pin "3"
-			(uuid "3c96ab2a-b089-4ac7-9231-48dd0e7674a9")
-		)
-		(pin "4"
-			(uuid "79c98b58-f812-4b89-86ab-95a8c6745e2a")
-		)
-		(instances
-			(project "portalusbhub"
-				(path "/9385e21f-1220-4893-8da3-3b0d5c506998"
-					(reference "USB3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "portalusbh-easyedapro:Ground-GND")
-		(at 274.32 62.23 0)
-		(unit 1)
-		(body_style 0)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "caef58d0-5f1e-4cc0-9947-34ed38d2c7c9")
-		(property "Reference" "#PWR?"
-			(at 274.32 62.23 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 274.32 68.58 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.5748 1.5748)
-				)
-			)
-		)
-		(property "Footprint" "portalusbh-easyedapro:"
-			(at 274.32 62.23 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 274.32 62.23 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 274.32 62.23 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "86296bf7-7501-40fc-9073-243f93870851")
-		)
-		(instances
-			(project "portalusbhub"
-				(path "/9385e21f-1220-4893-8da3-3b0d5c506998"
-					(reference "#PWR?")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "portalusbh-easyedapro:Power-5V")
-		(at 227.33 69.85 0)
-		(unit 1)
-		(body_style 0)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "cd61db91-825d-4cd8-9731-3a9836b85088")
-		(property "Reference" "#PWR?"
-			(at 227.33 69.85 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "+5V"
-			(at 227.33 66.04 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.5748 1.5748)
-				)
-			)
-		)
-		(property "Footprint" "portalusbh-easyedapro:"
-			(at 227.33 69.85 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 227.33 69.85 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 227.33 69.85 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "99354d95-813c-4a6e-b346-61e7e8b2575e")
-		)
-		(instances
-			(project "portalusbhub"
-				(path "/9385e21f-1220-4893-8da3-3b0d5c506998"
-					(reference "#PWR?")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "portalusbh-easyedapro:Power-5V")
-		(at 229.87 104.14 0)
-		(unit 1)
-		(body_style 0)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "d01523e3-9b57-4d60-9a91-7fd9ab77963e")
-		(property "Reference" "#PWR?"
-			(at 229.87 104.14 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "+5V"
-			(at 229.87 100.33 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.5748 1.5748)
-				)
-			)
-		)
-		(property "Footprint" "portalusbh-easyedapro:"
-			(at 229.87 104.14 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 229.87 104.14 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 229.87 104.14 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "1aad8b48-25e6-4c28-a83a-1b4f4204c01c")
-		)
-		(instances
-			(project "portalusbhub"
-				(path "/9385e21f-1220-4893-8da3-3b0d5c506998"
-					(reference "#PWR?")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "portalusbh-easyedapro:Ground-GND")
-		(at 227.33 80.01 0)
-		(unit 1)
-		(body_style 0)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "d04519b3-40a0-4073-95b2-fae01bc4a0bb")
-		(property "Reference" "#PWR?"
-			(at 227.33 80.01 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 227.33 86.36 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.5748 1.5748)
-				)
-			)
-		)
-		(property "Footprint" "portalusbh-easyedapro:"
-			(at 227.33 80.01 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 227.33 80.01 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 227.33 80.01 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "b881f595-6a66-4760-8d86-2295487a3adc")
-		)
-		(instances
-			(project "portalusbhub"
-				(path "/9385e21f-1220-4893-8da3-3b0d5c506998"
-					(reference "#PWR?")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "portalusbh-easyedapro:Power-5V")
-		(at 92.71 50.8 0)
-		(unit 1)
-		(body_style 0)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "d5166fde-2348-42dd-af8f-20d5684b5018")
-		(property "Reference" "#PWR?"
-			(at 92.71 50.8 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "+5V"
-			(at 92.71 46.99 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.5748 1.5748)
-				)
-			)
-		)
-		(property "Footprint" "portalusbh-easyedapro:"
-			(at 92.71 50.8 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 92.71 50.8 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 92.71 50.8 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "66c33689-e294-40ee-a5f7-172b53499afd")
-		)
-		(instances
-			(project "portalusbhub"
-				(path "/9385e21f-1220-4893-8da3-3b0d5c506998"
-					(reference "#PWR?")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "portalusbh-easyedapro:CAP")
-		(at 228.6 36.83 90)
-		(unit 1)
-		(body_style 0)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "d810e3bd-8df3-46bd-95e4-f45f5794172c")
-		(property "Reference" "C1"
-			(at 231.14 36.83 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.5748 1.5748)
-				)
-				(justify right top)
-			)
-		)
-		(property "Value" "100nF"
-			(at 231.14 39.37 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.5748 1.5748)
-				)
-				(justify right top)
-			)
-		)
-		(property "Footprint" "portalusbh-easyedapro:C0603"
-			(at 228.6 36.83 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 228.6 36.83 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 228.6 36.83 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "a3f89c89-1e57-4b60-bc1b-9edc921343ce")
-		)
-		(pin "2"
-			(uuid "1b23527f-9705-4ea4-b26e-7edf49c5d4ed")
-		)
-		(instances
-			(project "portalusbhub"
-				(path "/9385e21f-1220-4893-8da3-3b0d5c506998"
-					(reference "C1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "portalusbh-easyedapro:10.0 QHHTZB6.3")
-		(at 259.08 36.83 0)
-		(unit 1)
-		(body_style 0)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "dbcebacf-ad89-4ecf-ba2d-d9ff07fee03d")
-		(property "Reference" "USB1"
-			(at 270.51 31.75 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.5748 1.5748)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Value" "10.0 QHHTZB6.3"
-			(at 270.51 34.29 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.5748 1.5748)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" "portalusbh-easyedapro:USB-A-TH_10.0QHHTZB6.3"
-			(at 259.08 36.83 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" "https://item.szlcsc.com/datasheet/10.0%2520QHHTZB6.3/698534.html"
-			(at 259.08 36.83 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 259.08 36.83 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer Part" "10.0 QHHTZB6.3"
-			(at 259.08 36.83 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "SHOU HAN(首韩)"
-			(at 259.08 36.83 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Supplier Part" "C668591"
-			(at 259.08 36.83 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Supplier" "LCSC"
-			(at 259.08 36.83 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "LCSC Part Name" "壳长10.0mm"
-			(at 259.08 36.83 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "fe3bc059-59b6-422f-9053-9dd7899d53a7")
-		)
-		(pin "5"
-			(uuid "b9e3974b-efd4-458c-a70b-9eb1cacdaa2b")
-		)
-		(pin "2"
-			(uuid "017167a3-ffa4-47f3-bb9d-69f692733f5b")
-		)
-		(pin "3"
-			(uuid "31711c23-d1cc-41aa-bbb3-350611f05eb5")
-		)
-		(pin "4"
-			(uuid "f6bd5a8a-d96d-457d-a5b2-677b50a3f181")
-		)
-		(pin "6"
-			(uuid "079c6951-af0c-4f7b-b276-28b884e1f843")
-		)
-		(instances
-			(project "portalusbhub"
-				(path "/9385e21f-1220-4893-8da3-3b0d5c506998"
-					(reference "USB1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "portalusbh-easyedapro:Ground-GND")
-		(at 92.71 86.36 0)
-		(unit 1)
-		(body_style 0)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "dc1c0d85-e0db-4652-8859-f4f9bf2d5772")
-		(property "Reference" "#PWR?"
-			(at 92.71 86.36 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 92.71 92.71 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.5748 1.5748)
-				)
-			)
-		)
-		(property "Footprint" "portalusbh-easyedapro:"
-			(at 92.71 86.36 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 92.71 86.36 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 92.71 86.36 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "b0da5600-609f-4a25-b7e1-2bffcb9fa03c")
-		)
-		(instances
-			(project "portalusbhub"
-				(path "/9385e21f-1220-4893-8da3-3b0d5c506998"
-					(reference "#PWR?")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "portalusbh-easyedapro:CAP")
+		(lib_id "portalhub-easyedapro:CAP")
 		(at 123.19 102.87 90)
 		(unit 1)
 		(body_style 0)
@@ -8773,7 +5652,7 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(uuid "dcd3fac6-7fbb-4c27-bfd0-37004d282ab8")
+		(uuid "3aa2d809-6ebc-4c0c-89c9-e51cb3994fd2")
 		(property "Reference" "C6"
 			(at 127 102.87 90)
 			(show_name no)
@@ -8796,7 +5675,7 @@
 				(justify right top)
 			)
 		)
-		(property "Footprint" "portalusbh-easyedapro:C0603"
+		(property "Footprint" "portalhub-easyedapro:C0603"
 			(at 123.19 102.87 0)
 			(hide yes)
 			(show_name no)
@@ -8829,15 +5708,15 @@
 				)
 			)
 		)
-		(pin "1"
-			(uuid "d61d1cde-573d-459f-93af-1ea735af520e")
-		)
 		(pin "2"
-			(uuid "866b1f23-96e6-45ac-92da-479c929265de")
+			(uuid "0bd4acc1-bf5c-4560-b7f3-d4d208c71852")
+		)
+		(pin "1"
+			(uuid "d0e074bc-ab7e-48dd-aa5d-e0f9ab7607a7")
 		)
 		(instances
-			(project "portalusbhub"
-				(path "/9385e21f-1220-4893-8da3-3b0d5c506998"
+			(project "portalhub"
+				(path "/0e4864ec-c96c-4945-b96a-3daed380265b"
 					(reference "C6")
 					(unit 1)
 				)
@@ -8845,8 +5724,8 @@
 		)
 	)
 	(symbol
-		(lib_id "portalusbh-easyedapro:Ground-GND")
-		(at 123.19 107.95 0)
+		(lib_id "portalhub-easyedapro:Ground-GND")
+		(at 227.33 146.05 0)
 		(unit 1)
 		(body_style 0)
 		(exclude_from_sim no)
@@ -8854,9 +5733,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(uuid "debfec05-d341-4286-8fb6-492e1b5b7426")
+		(uuid "3fbb0a76-163d-4f0e-9029-5d85058c51fd")
 		(property "Reference" "#PWR?"
-			(at 123.19 107.95 0)
+			(at 227.33 146.05 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8867,7 +5746,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 123.19 114.3 0)
+			(at 227.33 152.4 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8876,8 +5755,8 @@
 				)
 			)
 		)
-		(property "Footprint" "portalusbh-easyedapro:"
-			(at 123.19 107.95 0)
+		(property "Footprint" "portalhub-easyedapro:"
+			(at 227.33 146.05 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8888,7 +5767,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 123.19 107.95 0)
+			(at 227.33 146.05 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8899,7 +5778,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 123.19 107.95 0)
+			(at 227.33 146.05 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8910,11 +5789,11 @@
 			)
 		)
 		(pin "1"
-			(uuid "19ab3a10-f046-4bf6-be6b-13586f073864")
+			(uuid "943db894-5f42-49a2-bc9b-2f5562bdfb79")
 		)
 		(instances
-			(project "portalusbhub"
-				(path "/9385e21f-1220-4893-8da3-3b0d5c506998"
+			(project "portalhub"
+				(path "/0e4864ec-c96c-4945-b96a-3daed380265b"
 					(reference "#PWR?")
 					(unit 1)
 				)
@@ -8922,7 +5801,238 @@
 		)
 	)
 	(symbol
-		(lib_id "portalusbh-easyedapro:CAP")
+		(lib_id "portalhub-easyedapro:Ground-GND")
+		(at 229.87 114.3 0)
+		(unit 1)
+		(body_style 0)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "4054d861-8317-4a22-8b25-717e290a002b")
+		(property "Reference" "#PWR?"
+			(at 229.87 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 229.87 120.65 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.5748 1.5748)
+				)
+			)
+		)
+		(property "Footprint" "portalhub-easyedapro:"
+			(at 229.87 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 229.87 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 229.87 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "b11a2ad7-f1ba-4acc-92db-c01b614e312e")
+		)
+		(instances
+			(project "portalhub"
+				(path "/0e4864ec-c96c-4945-b96a-3daed380265b"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "portalhub-easyedapro:Ground-GND")
+		(at 238.76 39.37 0)
+		(unit 1)
+		(body_style 0)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "4bfefd59-ce49-4fd2-a983-42dc6404bdb1")
+		(property "Reference" "#PWR?"
+			(at 238.76 39.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 238.76 45.72 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.5748 1.5748)
+				)
+			)
+		)
+		(property "Footprint" "portalhub-easyedapro:"
+			(at 238.76 39.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 238.76 39.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 238.76 39.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "b3dd7171-dba5-433e-acbe-d387374d29ba")
+		)
+		(instances
+			(project "portalhub"
+				(path "/0e4864ec-c96c-4945-b96a-3daed380265b"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "portalhub-easyedapro:Ground-GND")
+		(at 114.3 80.01 0)
+		(unit 1)
+		(body_style 0)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "4f80ab96-1337-4d23-acda-e2229f6ff934")
+		(property "Reference" "#PWR?"
+			(at 114.3 80.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 114.3 86.36 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.5748 1.5748)
+				)
+			)
+		)
+		(property "Footprint" "portalhub-easyedapro:"
+			(at 114.3 80.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 114.3 80.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 114.3 80.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "00fa038a-8f55-4281-b8e5-e694e51fbcca")
+		)
+		(instances
+			(project "portalhub"
+				(path "/0e4864ec-c96c-4945-b96a-3daed380265b"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "portalhub-easyedapro:CAP")
 		(at 171.45 116.84 90)
 		(unit 1)
 		(body_style 0)
@@ -8931,7 +6041,7 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(uuid "dfa3c73a-cb75-400c-9db8-39006b198a27")
+		(uuid "4fae5f47-17cc-4be1-ae81-8b194500a02b")
 		(property "Reference" "C7"
 			(at 175.26 118.11 90)
 			(show_name no)
@@ -8954,7 +6064,7 @@
 				(justify right top)
 			)
 		)
-		(property "Footprint" "portalusbh-easyedapro:C0603"
+		(property "Footprint" "portalhub-easyedapro:C0603"
 			(at 171.45 116.84 0)
 			(hide yes)
 			(show_name no)
@@ -8988,14 +6098,14 @@
 			)
 		)
 		(pin "1"
-			(uuid "3e0b73ff-ae4f-4e64-bd4a-e1044cc9481b")
+			(uuid "4739526b-8acf-48bc-aac1-9cfb56f90ddf")
 		)
 		(pin "2"
-			(uuid "21522e79-1dd2-43a9-a22c-528b3f549d5c")
+			(uuid "e314dcc3-0fac-480a-991d-774c5684457e")
 		)
 		(instances
-			(project "portalusbhub"
-				(path "/9385e21f-1220-4893-8da3-3b0d5c506998"
+			(project "portalhub"
+				(path "/0e4864ec-c96c-4945-b96a-3daed380265b"
 					(reference "C7")
 					(unit 1)
 				)
@@ -9003,8 +6113,8 @@
 		)
 	)
 	(symbol
-		(lib_id "portalusbh-easyedapro:Ground-GND")
-		(at 114.3 80.01 0)
+		(lib_id "portalhub-easyedapro:Ground-GND")
+		(at 81.28 76.2 0)
 		(unit 1)
 		(body_style 0)
 		(exclude_from_sim no)
@@ -9012,9 +6122,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(uuid "f0eb4762-d059-4212-ba64-94519fc5fb4b")
+		(uuid "52dab9d3-de40-4534-9b3d-efc3e31b9e5d")
 		(property "Reference" "#PWR?"
-			(at 114.3 80.01 0)
+			(at 81.28 76.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9025,7 +6135,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 114.3 86.36 0)
+			(at 81.28 82.55 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9034,8 +6144,8 @@
 				)
 			)
 		)
-		(property "Footprint" "portalusbh-easyedapro:"
-			(at 114.3 80.01 0)
+		(property "Footprint" "portalhub-easyedapro:"
+			(at 81.28 76.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9046,7 +6156,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 114.3 80.01 0)
+			(at 81.28 76.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9057,7 +6167,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 114.3 80.01 0)
+			(at 81.28 76.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9068,11 +6178,11 @@
 			)
 		)
 		(pin "1"
-			(uuid "2cda6ede-c7ec-41f7-9772-7a13077429a5")
+			(uuid "c688f6b8-9ae4-478c-9043-35b86f212108")
 		)
 		(instances
-			(project "portalusbhub"
-				(path "/9385e21f-1220-4893-8da3-3b0d5c506998"
+			(project "portalhub"
+				(path "/0e4864ec-c96c-4945-b96a-3daed380265b"
 					(reference "#PWR?")
 					(unit 1)
 				)
@@ -9080,8 +6190,8 @@
 		)
 	)
 	(symbol
-		(lib_id "portalusbh-easyedapro:Ground-GND")
-		(at 283.21 24.13 0)
+		(lib_id "portalhub-easyedapro:Power-5V")
+		(at 229.87 104.14 0)
 		(unit 1)
 		(body_style 0)
 		(exclude_from_sim no)
@@ -9089,9 +6199,167 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(uuid "fb6d3a82-9a62-4a59-878d-988a2e3ead3e")
+		(uuid "55831086-87f1-42aa-90f8-1dbbbeb748f8")
 		(property "Reference" "#PWR?"
-			(at 283.21 24.13 0)
+			(at 229.87 104.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+5V"
+			(at 229.87 100.33 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.5748 1.5748)
+				)
+			)
+		)
+		(property "Footprint" "portalhub-easyedapro:"
+			(at 229.87 104.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 229.87 104.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 229.87 104.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "081f6358-d4ae-4f5d-bef9-b127db3cc47a")
+		)
+		(instances
+			(project "portalhub"
+				(path "/0e4864ec-c96c-4945-b96a-3daed380265b"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "portalhub-easyedapro:CAP")
+		(at 228.6 36.83 90)
+		(unit 1)
+		(body_style 0)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "5f406ba9-c804-4960-913e-f6aa92b33598")
+		(property "Reference" "C1"
+			(at 231.14 36.83 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.5748 1.5748)
+				)
+				(justify right top)
+			)
+		)
+		(property "Value" "100nF"
+			(at 231.14 39.37 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.5748 1.5748)
+				)
+				(justify right top)
+			)
+		)
+		(property "Footprint" "portalhub-easyedapro:C0603"
+			(at 228.6 36.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 228.6 36.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 228.6 36.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "f338e902-b846-42c6-b44a-4863c8121bf7")
+		)
+		(pin "1"
+			(uuid "b55376fc-719a-4a27-87db-1dff4a310b76")
+		)
+		(instances
+			(project "portalhub"
+				(path "/0e4864ec-c96c-4945-b96a-3daed380265b"
+					(reference "C1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "portalhub-easyedapro:Ground-GND")
+		(at 241.3 143.51 0)
+		(unit 1)
+		(body_style 0)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "63341851-9050-48e8-bb25-853feacaddc9")
+		(property "Reference" "#PWR?"
+			(at 241.3 143.51 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9102,7 +6370,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 283.21 30.48 0)
+			(at 241.3 149.86 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9111,8 +6379,8 @@
 				)
 			)
 		)
-		(property "Footprint" "portalusbh-easyedapro:"
-			(at 283.21 24.13 0)
+		(property "Footprint" "portalhub-easyedapro:"
+			(at 241.3 143.51 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9123,7 +6391,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 283.21 24.13 0)
+			(at 241.3 143.51 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9134,7 +6402,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 283.21 24.13 0)
+			(at 241.3 143.51 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9145,11 +6413,11 @@
 			)
 		)
 		(pin "1"
-			(uuid "43f9ce65-c271-4aa8-a568-fecd73547a93")
+			(uuid "39fa288e-a2ce-4140-8955-b1cc63ed8f85")
 		)
 		(instances
-			(project "portalusbhub"
-				(path "/9385e21f-1220-4893-8da3-3b0d5c506998"
+			(project "portalhub"
+				(path "/0e4864ec-c96c-4945-b96a-3daed380265b"
 					(reference "#PWR?")
 					(unit 1)
 				)
@@ -9157,7 +6425,808 @@
 		)
 	)
 	(symbol
-		(lib_id "portalusbh-easyedapro:CAP")
+		(lib_id "portalhub-easyedapro:Power-5V")
+		(at 228.6 29.21 0)
+		(unit 1)
+		(body_style 0)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "633cbbc3-61e7-4307-b049-0c469aee3427")
+		(property "Reference" "#PWR?"
+			(at 228.6 29.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+5V"
+			(at 228.6 25.4 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.5748 1.5748)
+				)
+			)
+		)
+		(property "Footprint" "portalhub-easyedapro:"
+			(at 228.6 29.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 228.6 29.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 228.6 29.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "81b27e91-6557-4638-b853-9564563af86e")
+		)
+		(instances
+			(project "portalhub"
+				(path "/0e4864ec-c96c-4945-b96a-3daed380265b"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "portalhub-easyedapro:Res")
+		(at 105.41 74.93 90)
+		(unit 1)
+		(body_style 0)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "66fbdc18-e0ca-4423-ace0-5cdf358296b9")
+		(property "Reference" "R1"
+			(at 107.95 74.93 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.5748 1.5748)
+				)
+				(justify right top)
+			)
+		)
+		(property "Value" "10K"
+			(at 107.95 77.47 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.5748 1.5748)
+				)
+				(justify right top)
+			)
+		)
+		(property "Footprint" "portalhub-easyedapro:R0603"
+			(at 105.41 74.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 105.41 74.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 105.41 74.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "994d9d10-f5a2-4810-a8a9-6fd6a9ea179c")
+		)
+		(pin "2"
+			(uuid "d016d92b-f918-41d3-976c-144429a96792")
+		)
+		(instances
+			(project "portalhub"
+				(path "/0e4864ec-c96c-4945-b96a-3daed380265b"
+					(reference "R1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "portalhub-easyedapro:Ground-GND")
+		(at 274.32 62.23 0)
+		(unit 1)
+		(body_style 0)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "6c355089-a5d1-441b-93a4-5d380197876a")
+		(property "Reference" "#PWR?"
+			(at 274.32 62.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 274.32 68.58 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.5748 1.5748)
+				)
+			)
+		)
+		(property "Footprint" "portalhub-easyedapro:"
+			(at 274.32 62.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 274.32 62.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 274.32 62.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "340e11e2-33a3-47d8-8e8e-1dad11be8479")
+		)
+		(instances
+			(project "portalhub"
+				(path "/0e4864ec-c96c-4945-b96a-3daed380265b"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "portalhub-easyedapro:Ground-GND")
+		(at 92.71 86.36 0)
+		(unit 1)
+		(body_style 0)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "6cb3635c-23fd-4d7d-bc1c-0fa4bfd32f79")
+		(property "Reference" "#PWR?"
+			(at 92.71 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 92.71 92.71 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.5748 1.5748)
+				)
+			)
+		)
+		(property "Footprint" "portalhub-easyedapro:"
+			(at 92.71 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 92.71 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 92.71 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "320993eb-0b5c-4aab-aeae-9fc449ba227a")
+		)
+		(instances
+			(project "portalhub"
+				(path "/0e4864ec-c96c-4945-b96a-3daed380265b"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "portalhub-easyedapro:TYPE-C 16PIN 2MD(073)")
+		(at 66.04 62.23 180)
+		(unit 1)
+		(body_style 0)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "6e6b1054-f30c-44f4-a4d4-81876df7f2a8")
+		(property "Reference" "USBIN"
+			(at 59.69 45.72 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.5748 1.5748)
+				)
+				(justify right top)
+			)
+		)
+		(property "Value" "TYPE-C 16PIN 2MD(073)"
+			(at 59.69 81.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.5748 1.5748)
+				)
+				(justify right top)
+			)
+		)
+		(property "Footprint" "portalhub-easyedapro:USB-C-SMD_TYPE-C-16PIN-2MD-073"
+			(at 66.04 62.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://item.szlcsc.com/datasheet/TYPE-C%252016PIN%25202MD(073)/2901843.html"
+			(at 66.04 62.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 66.04 62.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part" "TYPE-C 16PIN 2MD(073)"
+			(at 66.04 62.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "SHOU HAN(首韩)"
+			(at 66.04 62.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Supplier Part" "C2765186"
+			(at 66.04 62.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Supplier" "LCSC"
+			(at 66.04 62.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part Name" "Type-C 母 卧贴"
+			(at 66.04 62.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "A6"
+			(uuid "52936177-2c7e-4be9-ba70-38172e02e0ed")
+		)
+		(pin "13"
+			(uuid "ec7f08f4-0614-4a3b-80ef-24ff8efdd9ab")
+		)
+		(pin "14"
+			(uuid "fd63c0b8-7c35-4eff-855c-c3748d9f69e1")
+		)
+		(pin "A8"
+			(uuid "e123fc20-d260-4033-a2c8-f20c7c22999b")
+		)
+		(pin "B1A12"
+			(uuid "4a934580-5a1a-4663-b269-029b350ee099")
+		)
+		(pin "A5"
+			(uuid "d1b54137-6ad7-4bc8-a857-fb0a315e87e1")
+		)
+		(pin "B5"
+			(uuid "25486e83-ac9e-4f68-a9d1-ce08db8f9773")
+		)
+		(pin "B6"
+			(uuid "ebc10929-cc41-4ea4-913b-65ea10a2d329")
+		)
+		(pin "B8"
+			(uuid "90c69edf-f7c8-4a41-8bb8-3fcb25475922")
+		)
+		(pin "B7"
+			(uuid "fb429307-51bf-457b-bae9-0f2ac08e436e")
+		)
+		(pin "A7"
+			(uuid "c5ea3d47-36e2-4579-a399-d4cde3d64900")
+		)
+		(pin "B4A9"
+			(uuid "9ed3c9a1-28f0-4982-ba0b-3ca2c501f45d")
+		)
+		(pin "A4B9"
+			(uuid "6eea69e4-8402-429f-a217-69130c7a30a0")
+		)
+		(pin "A1B12"
+			(uuid "3d5a0096-778a-417d-bd76-a8e5e0d3a421")
+		)
+		(instances
+			(project "portalhub"
+				(path "/0e4864ec-c96c-4945-b96a-3daed380265b"
+					(reference "USBIN")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "portalhub-easyedapro:CAP")
+		(at 227.33 140.97 90)
+		(unit 1)
+		(body_style 0)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "7319d9b5-534c-4b70-9d5e-79de4d527401")
+		(property "Reference" "C4"
+			(at 229.87 140.97 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.5748 1.5748)
+				)
+				(justify right top)
+			)
+		)
+		(property "Value" "100nF"
+			(at 229.87 143.51 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.5748 1.5748)
+				)
+				(justify right top)
+			)
+		)
+		(property "Footprint" "portalhub-easyedapro:C0603"
+			(at 227.33 140.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 227.33 140.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 227.33 140.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "3d146e9b-447e-44c1-847b-d9f8a85b1c8c")
+		)
+		(pin "2"
+			(uuid "963d4447-7516-46c7-b8c6-a7d62791b1ef")
+		)
+		(instances
+			(project "portalhub"
+				(path "/0e4864ec-c96c-4945-b96a-3daed380265b"
+					(reference "C4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "portalhub-easyedapro:Ground-GND")
+		(at 227.33 80.01 0)
+		(unit 1)
+		(body_style 0)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "7418b81f-f01b-4885-939b-3014bc1fffa5")
+		(property "Reference" "#PWR?"
+			(at 227.33 80.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 227.33 86.36 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.5748 1.5748)
+				)
+			)
+		)
+		(property "Footprint" "portalhub-easyedapro:"
+			(at 227.33 80.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 227.33 80.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 227.33 80.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "af0cbcbc-7bc9-4bc8-8e2e-61c03c37f6a9")
+		)
+		(instances
+			(project "portalhub"
+				(path "/0e4864ec-c96c-4945-b96a-3daed380265b"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "portalhub-easyedapro:Ground-GND")
+		(at 275.59 151.13 0)
+		(unit 1)
+		(body_style 0)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "7f467f7f-e3c0-45fe-9a8a-a3911bb134dc")
+		(property "Reference" "#PWR?"
+			(at 275.59 151.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 275.59 157.48 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.5748 1.5748)
+				)
+			)
+		)
+		(property "Footprint" "portalhub-easyedapro:"
+			(at 275.59 151.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 275.59 151.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 275.59 151.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "bc12d59e-ff9b-44f3-9b1f-2662c554b5a5")
+		)
+		(instances
+			(project "portalhub"
+				(path "/0e4864ec-c96c-4945-b96a-3daed380265b"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "portalhub-easyedapro:CAP")
+		(at 200.66 116.84 90)
+		(unit 1)
+		(body_style 0)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "8db5434f-dd9c-4477-98a1-b041bed8976d")
+		(property "Reference" "C9"
+			(at 204.47 118.11 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.5748 1.5748)
+				)
+				(justify right top)
+			)
+		)
+		(property "Value" "100nF"
+			(at 204.47 120.65 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.5748 1.5748)
+				)
+				(justify right top)
+			)
+		)
+		(property "Footprint" "portalhub-easyedapro:C0603"
+			(at 200.66 116.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 200.66 116.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 200.66 116.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "3af7d474-55e0-4702-8af6-f2668586f5e4")
+		)
+		(pin "2"
+			(uuid "8b804c98-ec94-4f15-8311-99ad1273b076")
+		)
+		(instances
+			(project "portalhub"
+				(path "/0e4864ec-c96c-4945-b96a-3daed380265b"
+					(reference "C9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "portalhub-easyedapro:CAP")
 		(at 227.33 74.93 90)
 		(unit 1)
 		(body_style 0)
@@ -9166,7 +7235,7 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(uuid "fe8d76d8-4194-4978-a1d9-6c01d014baf6")
+		(uuid "93eff3f9-137a-4547-8432-e924993ae233")
 		(property "Reference" "C2"
 			(at 229.87 74.93 90)
 			(show_name no)
@@ -9189,7 +7258,7 @@
 				(justify right top)
 			)
 		)
-		(property "Footprint" "portalusbh-easyedapro:C0603"
+		(property "Footprint" "portalhub-easyedapro:C0603"
 			(at 227.33 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -9223,14 +7292,14 @@
 			)
 		)
 		(pin "2"
-			(uuid "ec5242f3-6f8e-44c7-bc37-167bd22bff65")
+			(uuid "11bbc61b-f631-4f7b-8264-11e9acdb8a0b")
 		)
 		(pin "1"
-			(uuid "f95dffa6-0b1c-45b3-9a1e-8efdea90d884")
+			(uuid "e74815e0-7bf2-42c1-b3a1-bf5cd6cfc33f")
 		)
 		(instances
-			(project "portalusbhub"
-				(path "/9385e21f-1220-4893-8da3-3b0d5c506998"
+			(project "portalhub"
+				(path "/0e4864ec-c96c-4945-b96a-3daed380265b"
 					(reference "C2")
 					(unit 1)
 				)
@@ -9238,7 +7307,1861 @@
 		)
 	)
 	(symbol
-		(lib_id "portalusbh-easyedapro:Ground-GND")
+		(lib_id "portalhub-easyedapro:Ground-GND")
+		(at 105.41 80.01 0)
+		(unit 1)
+		(body_style 0)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "a67c1ab2-a7b9-473c-a134-78aa8f0d6019")
+		(property "Reference" "#PWR?"
+			(at 105.41 80.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 105.41 86.36 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.5748 1.5748)
+				)
+			)
+		)
+		(property "Footprint" "portalhub-easyedapro:"
+			(at 105.41 80.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 105.41 80.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 105.41 80.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "5edccd60-4498-4c65-b3e6-32b5dfcc7b0b")
+		)
+		(instances
+			(project "portalhub"
+				(path "/0e4864ec-c96c-4945-b96a-3daed380265b"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "portalhub-easyedapro:Ground-GND")
+		(at 189.23 121.92 0)
+		(unit 1)
+		(body_style 0)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "a8435076-1dcd-4395-a420-8f3e76a8f712")
+		(property "Reference" "#PWR?"
+			(at 189.23 121.92 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 189.23 128.27 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.5748 1.5748)
+				)
+			)
+		)
+		(property "Footprint" "portalhub-easyedapro:"
+			(at 189.23 121.92 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 189.23 121.92 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 189.23 121.92 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "d5ff277f-3904-44dc-a021-c3189931b6b6")
+		)
+		(instances
+			(project "portalhub"
+				(path "/0e4864ec-c96c-4945-b96a-3daed380265b"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "portalhub-easyedapro:CAP")
+		(at 160.02 116.84 90)
+		(unit 1)
+		(body_style 0)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "aff89aa8-9a44-4ccb-b4b7-a41682bf03f1")
+		(property "Reference" "C8"
+			(at 163.83 116.84 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.5748 1.5748)
+				)
+				(justify right top)
+			)
+		)
+		(property "Value" "100nF"
+			(at 163.83 119.38 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.5748 1.5748)
+				)
+				(justify right top)
+			)
+		)
+		(property "Footprint" "portalhub-easyedapro:C0603"
+			(at 160.02 116.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 160.02 116.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 160.02 116.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "184b48ac-08e4-45aa-9024-9659d79b6d80")
+		)
+		(pin "2"
+			(uuid "39415139-abdd-49ad-8836-1eb8e1c7d8f6")
+		)
+		(instances
+			(project "portalhub"
+				(path "/0e4864ec-c96c-4945-b96a-3daed380265b"
+					(reference "C8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "portalhub-easyedapro:10.0 QHHTZB6.3")
+		(at 259.08 74.93 0)
+		(unit 1)
+		(body_style 0)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "b119c6e7-6474-4e7a-a774-2c9010a3975a")
+		(property "Reference" "USB2"
+			(at 270.51 62.23 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.5748 1.5748)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "10.0 QHHTZB6.3"
+			(at 270.51 65.786 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.5748 1.5748)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "portalhub-easyedapro:USB-A-TH_10.0QHHTZB6.3"
+			(at 259.08 74.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://item.szlcsc.com/datasheet/10.0%2520QHHTZB6.3/698534.html"
+			(at 259.08 74.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 259.08 74.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part" "10.0 QHHTZB6.3"
+			(at 259.08 74.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "SHOU HAN(首韩)"
+			(at 259.08 74.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Supplier Part" "C668591"
+			(at 259.08 74.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Supplier" "LCSC"
+			(at 259.08 74.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part Name" "壳长10.0mm"
+			(at 259.08 74.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "7aa7c5a7-1a7b-4fe6-aa82-57d85f255f85")
+		)
+		(pin "6"
+			(uuid "a65ee8ad-be16-48e7-b4e7-61b4f0fbe380")
+		)
+		(pin "3"
+			(uuid "e4b60807-f725-42c3-87f4-cee552f72a38")
+		)
+		(pin "4"
+			(uuid "d26a6f02-18cd-4e4d-810f-40d3e443bed3")
+		)
+		(pin "5"
+			(uuid "80be0574-0716-4432-a6d9-c4897244cc9e")
+		)
+		(pin "1"
+			(uuid "7b292971-d215-4e97-8fe4-c3bffab76cf2")
+		)
+		(instances
+			(project "portalhub"
+				(path "/0e4864ec-c96c-4945-b96a-3daed380265b"
+					(reference "USB2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "portalhub-easyedapro:Ground-GND")
+		(at 274.32 96.52 0)
+		(unit 1)
+		(body_style 0)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "b18282f0-9000-4f39-b917-6a04e723e1bc")
+		(property "Reference" "#PWR?"
+			(at 274.32 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 274.32 102.87 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.5748 1.5748)
+				)
+			)
+		)
+		(property "Footprint" "portalhub-easyedapro:"
+			(at 274.32 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 274.32 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 274.32 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "28da2f60-d521-4e31-9f0c-43af605b6b6d")
+		)
+		(instances
+			(project "portalhub"
+				(path "/0e4864ec-c96c-4945-b96a-3daed380265b"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "portalhub-easyedapro:Ground-GND")
+		(at 228.6 41.91 0)
+		(unit 1)
+		(body_style 0)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "b86315fc-e9cf-482a-9234-d3d23bf228a7")
+		(property "Reference" "#PWR?"
+			(at 228.6 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 228.6 48.26 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.5748 1.5748)
+				)
+			)
+		)
+		(property "Footprint" "portalhub-easyedapro:"
+			(at 228.6 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 228.6 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 228.6 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "9bf547f2-28e2-4a59-b12b-b0f95e4e8c03")
+		)
+		(instances
+			(project "portalhub"
+				(path "/0e4864ec-c96c-4945-b96a-3daed380265b"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "portalhub-easyedapro:Ground-GND")
+		(at 52.07 76.2 0)
+		(unit 1)
+		(body_style 0)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "bd43b1e6-6d4f-485b-95c0-6a3ad3a5bf0e")
+		(property "Reference" "#PWR?"
+			(at 52.07 76.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 52.07 82.55 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.5748 1.5748)
+				)
+			)
+		)
+		(property "Footprint" "portalhub-easyedapro:"
+			(at 52.07 76.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 52.07 76.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 52.07 76.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "63d7cdd5-ffaa-4e35-8e75-43d939efddb5")
+		)
+		(instances
+			(project "portalhub"
+				(path "/0e4864ec-c96c-4945-b96a-3daed380265b"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "portalhub-easyedapro:Ground-GND")
+		(at 283.21 48.26 0)
+		(unit 1)
+		(body_style 0)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "c505239c-f164-4175-803d-28412d87405f")
+		(property "Reference" "#PWR?"
+			(at 283.21 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 283.21 54.61 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.5748 1.5748)
+				)
+			)
+		)
+		(property "Footprint" "portalhub-easyedapro:"
+			(at 283.21 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 283.21 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 283.21 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "067a8824-1bdd-4fcb-9c29-881335e0b14f")
+		)
+		(instances
+			(project "portalhub"
+				(path "/0e4864ec-c96c-4945-b96a-3daed380265b"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "portalhub-easyedapro:Power-5V")
+		(at 227.33 135.89 0)
+		(unit 1)
+		(body_style 0)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "c9a3c7cd-63dc-4f74-85ee-6a7f81513dea")
+		(property "Reference" "#PWR?"
+			(at 227.33 135.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+5V"
+			(at 227.33 132.08 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.5748 1.5748)
+				)
+			)
+		)
+		(property "Footprint" "portalhub-easyedapro:"
+			(at 227.33 135.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 227.33 135.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 227.33 135.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "30877ab6-210c-4e37-a0d7-23b689a681ae")
+		)
+		(instances
+			(project "portalhub"
+				(path "/0e4864ec-c96c-4945-b96a-3daed380265b"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "portalhub-easyedapro:Power-5V")
+		(at 92.71 50.8 0)
+		(unit 1)
+		(body_style 0)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "d0ca0c3f-2638-4a06-aece-7c02841272c2")
+		(property "Reference" "#PWR?"
+			(at 92.71 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+5V"
+			(at 92.71 46.99 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.5748 1.5748)
+				)
+			)
+		)
+		(property "Footprint" "portalhub-easyedapro:"
+			(at 92.71 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 92.71 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 92.71 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "453b812d-f081-444f-ba23-3152594ed707")
+		)
+		(instances
+			(project "portalhub"
+				(path "/0e4864ec-c96c-4945-b96a-3daed380265b"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "portalhub-easyedapro:CAP")
+		(at 189.23 116.84 90)
+		(unit 1)
+		(body_style 0)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "d45a3cb7-5595-482a-8771-9fc6358d8099")
+		(property "Reference" "C10"
+			(at 193.04 116.84 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.5748 1.5748)
+				)
+				(justify right top)
+			)
+		)
+		(property "Value" "100nF"
+			(at 193.04 119.38 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.5748 1.5748)
+				)
+				(justify right top)
+			)
+		)
+		(property "Footprint" "portalhub-easyedapro:C0603"
+			(at 189.23 116.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 189.23 116.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 189.23 116.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "c548f163-1be1-4e81-b7e1-112049e94a1d")
+		)
+		(pin "2"
+			(uuid "098cf471-32c2-45dc-9124-cd2e1424219e")
+		)
+		(instances
+			(project "portalhub"
+				(path "/0e4864ec-c96c-4945-b96a-3daed380265b"
+					(reference "C10")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "portalhub-easyedapro:Ground-GND")
+		(at 123.19 107.95 0)
+		(unit 1)
+		(body_style 0)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "d634bc11-4136-44ea-939a-0c1c16f41642")
+		(property "Reference" "#PWR?"
+			(at 123.19 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 123.19 114.3 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.5748 1.5748)
+				)
+			)
+		)
+		(property "Footprint" "portalhub-easyedapro:"
+			(at 123.19 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 123.19 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 123.19 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "2583b177-bf1f-4c67-8cd0-a892f34c3654")
+		)
+		(instances
+			(project "portalhub"
+				(path "/0e4864ec-c96c-4945-b96a-3daed380265b"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "portalhub-easyedapro:10.0 QHHTZB6.3")
+		(at 259.08 140.97 0)
+		(unit 1)
+		(body_style 0)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "d6b90242-02da-4df5-a31a-f90dd4dcdbb7")
+		(property "Reference" "USB4"
+			(at 270.51 128.27 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.5748 1.5748)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "10.0 QHHTZB6.3"
+			(at 270.51 131.826 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.5748 1.5748)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "portalhub-easyedapro:USB-A-TH_10.0QHHTZB6.3"
+			(at 259.08 140.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://item.szlcsc.com/datasheet/10.0%2520QHHTZB6.3/698534.html"
+			(at 259.08 140.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 259.08 140.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part" "10.0 QHHTZB6.3"
+			(at 259.08 140.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "SHOU HAN(首韩)"
+			(at 259.08 140.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Supplier Part" "C668591"
+			(at 259.08 140.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Supplier" "LCSC"
+			(at 259.08 140.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part Name" "壳长10.0mm"
+			(at 259.08 140.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "94cd8f2a-2b4d-4611-84b0-3611dd271ff9")
+		)
+		(pin "3"
+			(uuid "fcde410a-2987-4ad3-b860-3196c79d9da8")
+		)
+		(pin "2"
+			(uuid "ae674294-c222-4f7e-a405-b5ca3f07f161")
+		)
+		(pin "5"
+			(uuid "c555b9f4-7144-4a73-a7bc-7ee4695f3227")
+		)
+		(pin "6"
+			(uuid "fafff01b-9e07-41b0-b512-7fe7998fee4d")
+		)
+		(pin "4"
+			(uuid "d350c657-8682-47bc-ab72-5ff3f84f2016")
+		)
+		(instances
+			(project "portalhub"
+				(path "/0e4864ec-c96c-4945-b96a-3daed380265b"
+					(reference "USB4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "portalhub-easyedapro:Power-5V")
+		(at 134.62 95.25 0)
+		(unit 1)
+		(body_style 0)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "dbb04b1e-5b57-458d-a34c-1842aef2263c")
+		(property "Reference" "#PWR?"
+			(at 134.62 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+5V"
+			(at 134.62 91.44 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.5748 1.5748)
+				)
+			)
+		)
+		(property "Footprint" "portalhub-easyedapro:"
+			(at 134.62 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 134.62 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 134.62 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "e4d18cd9-1ed9-4900-bce0-813dd99e0be0")
+		)
+		(instances
+			(project "portalhub"
+				(path "/0e4864ec-c96c-4945-b96a-3daed380265b"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "portalhub-easyedapro:Ground-GND")
+		(at 274.32 129.54 0)
+		(unit 1)
+		(body_style 0)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "dc09d293-729f-4c88-99f8-ae6d5a7016a3")
+		(property "Reference" "#PWR?"
+			(at 274.32 129.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 274.32 135.89 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.5748 1.5748)
+				)
+			)
+		)
+		(property "Footprint" "portalhub-easyedapro:"
+			(at 274.32 129.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 274.32 129.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 274.32 129.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "ecdf5954-a05a-45fa-b3c4-3e34458f8f3c")
+		)
+		(instances
+			(project "portalhub"
+				(path "/0e4864ec-c96c-4945-b96a-3daed380265b"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "portalhub-easyedapro:Ground-GND")
+		(at 160.02 121.92 0)
+		(unit 1)
+		(body_style 0)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "dd444e0e-534c-4985-b71e-08a533ad6d5c")
+		(property "Reference" "#PWR?"
+			(at 160.02 121.92 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 160.02 128.27 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.5748 1.5748)
+				)
+			)
+		)
+		(property "Footprint" "portalhub-easyedapro:"
+			(at 160.02 121.92 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 160.02 121.92 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 160.02 121.92 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "7caf7985-6ee5-4d1b-b8f3-842438fb9586")
+		)
+		(instances
+			(project "portalhub"
+				(path "/0e4864ec-c96c-4945-b96a-3daed380265b"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "portalhub-easyedapro:CAP")
+		(at 92.71 81.28 90)
+		(unit 1)
+		(body_style 0)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "e21a6c93-8c6b-42e9-a15a-1e8f2c82ab4e")
+		(property "Reference" "CIN"
+			(at 95.25 81.28 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.5748 1.5748)
+				)
+				(justify right top)
+			)
+		)
+		(property "Value" "100nF"
+			(at 95.25 83.82 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.5748 1.5748)
+				)
+				(justify right top)
+			)
+		)
+		(property "Footprint" "portalhub-easyedapro:C0603"
+			(at 92.71 81.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 92.71 81.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 92.71 81.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "1cdedaf2-b176-4811-9adf-3915295add8d")
+		)
+		(pin "2"
+			(uuid "dc42b705-95c5-4789-97db-c6b30ddead37")
+		)
+		(instances
+			(project "portalhub"
+				(path "/0e4864ec-c96c-4945-b96a-3daed380265b"
+					(reference "CIN")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "portalhub-easyedapro:Ground-GND")
+		(at 283.21 24.13 0)
+		(unit 1)
+		(body_style 0)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "e8aebdaf-8bd7-4877-89e9-d1e6463327df")
+		(property "Reference" "#PWR?"
+			(at 283.21 24.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 283.21 30.48 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.5748 1.5748)
+				)
+			)
+		)
+		(property "Footprint" "portalhub-easyedapro:"
+			(at 283.21 24.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 283.21 24.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 283.21 24.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "4ab41c08-c1a9-40d6-a0f6-917045836dc6")
+		)
+		(instances
+			(project "portalhub"
+				(path "/0e4864ec-c96c-4945-b96a-3daed380265b"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "portalhub-easyedapro:Ground-GND")
+		(at 195.58 86.36 0)
+		(unit 1)
+		(body_style 0)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "efc292a3-3eef-49cd-85ec-a1560570cd7a")
+		(property "Reference" "#PWR?"
+			(at 195.58 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 195.58 92.71 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.5748 1.5748)
+				)
+			)
+		)
+		(property "Footprint" "portalhub-easyedapro:"
+			(at 195.58 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 195.58 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 195.58 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "0741dc22-5152-46e7-a850-abc7c066ae1b")
+		)
+		(instances
+			(project "portalhub"
+				(path "/0e4864ec-c96c-4945-b96a-3daed380265b"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "portalhub-easyedapro:Ground-GND")
+		(at 148.59 100.33 0)
+		(unit 1)
+		(body_style 0)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "f2926d24-21ad-432e-8262-c098df6dd4db")
+		(property "Reference" "#PWR?"
+			(at 148.59 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 148.59 106.68 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.5748 1.5748)
+				)
+			)
+		)
+		(property "Footprint" "portalhub-easyedapro:"
+			(at 148.59 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 148.59 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 148.59 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "ded8117c-8fb3-4465-8f75-d588737c8212")
+		)
+		(instances
+			(project "portalhub"
+				(path "/0e4864ec-c96c-4945-b96a-3daed380265b"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "portalhub-easyedapro:Res")
+		(at 114.3 74.93 90)
+		(unit 1)
+		(body_style 0)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "f42b19d4-607d-43e2-bcc4-68fd7fe440c3")
+		(property "Reference" "R2"
+			(at 116.84 74.93 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.5748 1.5748)
+				)
+				(justify right top)
+			)
+		)
+		(property "Value" "10K"
+			(at 116.84 77.47 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.5748 1.5748)
+				)
+				(justify right top)
+			)
+		)
+		(property "Footprint" "portalhub-easyedapro:R0603"
+			(at 114.3 74.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 114.3 74.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 114.3 74.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "fbea5270-5dbb-4060-a034-a500ae310dfb")
+		)
+		(pin "1"
+			(uuid "b3522995-7a4c-42a0-83f1-4d372938f0e3")
+		)
+		(instances
+			(project "portalhub"
+				(path "/0e4864ec-c96c-4945-b96a-3daed380265b"
+					(reference "R2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "portalhub-easyedapro:Ground-GND")
+		(at 241.3 77.47 0)
+		(unit 1)
+		(body_style 0)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "f7428360-aa37-40cd-83a6-f0177f46dca1")
+		(property "Reference" "#PWR?"
+			(at 241.3 77.47 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 241.3 83.82 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.5748 1.5748)
+				)
+			)
+		)
+		(property "Footprint" "portalhub-easyedapro:"
+			(at 241.3 77.47 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 241.3 77.47 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 241.3 77.47 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "c31d606e-bf23-4ee3-9487-75523c40e14c")
+		)
+		(instances
+			(project "portalhub"
+				(path "/0e4864ec-c96c-4945-b96a-3daed380265b"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "portalhub-easyedapro:Ground-GND")
 		(at 283.21 85.09 0)
 		(unit 1)
 		(body_style 0)
@@ -9247,7 +9170,7 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(uuid "ffa4c6e4-ef42-4f18-bd13-db48385f5700")
+		(uuid "f8162aa0-2d67-48e5-b5d2-1d7ec051fd9d")
 		(property "Reference" "#PWR?"
 			(at 283.21 85.09 0)
 			(hide yes)
@@ -9269,7 +9192,7 @@
 				)
 			)
 		)
-		(property "Footprint" "portalusbh-easyedapro:"
+		(property "Footprint" "portalhub-easyedapro:"
 			(at 283.21 85.09 0)
 			(hide yes)
 			(show_name no)
@@ -9303,11 +9226,88 @@
 			)
 		)
 		(pin "1"
-			(uuid "53a715a8-da08-40c0-aa14-0e49887ecabe")
+			(uuid "c7ca3248-8ed7-4863-8087-8f46a9989220")
 		)
 		(instances
-			(project "portalusbhub"
-				(path "/9385e21f-1220-4893-8da3-3b0d5c506998"
+			(project "portalhub"
+				(path "/0e4864ec-c96c-4945-b96a-3daed380265b"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "portalhub-easyedapro:Ground-GND")
+		(at 281.94 119.38 0)
+		(unit 1)
+		(body_style 0)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "fed136b1-70a7-41de-958b-1587f1c36cb0")
+		(property "Reference" "#PWR?"
+			(at 281.94 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 281.94 125.73 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.5748 1.5748)
+				)
+			)
+		)
+		(property "Footprint" "portalhub-easyedapro:"
+			(at 281.94 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 281.94 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 281.94 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "809ecbfd-b214-4c02-865d-4ae671e72d0c")
+		)
+		(instances
+			(project "portalhub"
+				(path "/0e4864ec-c96c-4945-b96a-3daed380265b"
 					(reference "#PWR?")
 					(unit 1)
 				)

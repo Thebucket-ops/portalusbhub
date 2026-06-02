@@ -60,9 +60,9 @@
           "hatch_smoothing_level": 0,
           "hatch_smoothing_value": 0.1,
           "hatch_thickness": 1.0,
-          "min_clearance": 0.5,
+          "min_clearance": 0.1015,
           "min_island_area": 10.0,
-          "min_thickness": 0.25,
+          "min_thickness": 0.127,
           "pad_connection": 1,
           "remove_islands": 0,
           "thermal_relief_gap": 0.5,
@@ -488,7 +488,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "portalusbhub.kicad_pro",
+    "filename": "portalhub.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -643,9 +643,9 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "portalusbhub.kicad_sch",
+        "filename": "portalhub.kicad_sch",
         "name": "Schematic1",
-        "uuid": "9385e21f-1220-4893-8da3-3b0d5c506998"
+        "uuid": "0e4864ec-c96c-4945-b96a-3daed380265b"
       }
     ],
     "used_designators": "",
@@ -653,7 +653,7 @@
   },
   "sheets": [
     [
-      "9385e21f-1220-4893-8da3-3b0d5c506998",
+      "0e4864ec-c96c-4945-b96a-3daed380265b",
       "Schematic1"
     ]
   ],
