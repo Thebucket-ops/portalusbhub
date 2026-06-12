@@ -2,16 +2,16 @@
 This is a usb hub that lets you connect 4 usbs inspired by portal
 The repository is structured as follows:
 
--CAD: with the models for the casing of the hub in various formats
--PCB: with the schematics for the pcb in epro and kicad + gerber
+ - CAD: with the models for the casing of the hub in various formats
+ - PCB: with the schematics for the pcb in epro and kicad + gerber
 
-##PCB
+## PCB
 Here is the pcb plus its schematic:
 ![PCB](images/pcbfront.png)
 ![PCB](images/pcbback.png)
 
 ![Schematic](images/schematic.png)
-##BOM
+## BOM
 The BOM is as follows:
 * 4 usb-A 2.0 connectors
 * 1 usb-c connector
@@ -20,6 +20,6 @@ The BOM is as follows:
 * 8 condensers 1uF
 * 3 condensers 100nF
 
-##CASE
+## CASE
 And here's the case i made for the hub, it has a top side and a bottom one:
 ![Case](images/case.png)
