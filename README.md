@@ -1,5 +1,6 @@
-# Portalusbhub
-This is a usb hub that lets you connect 4 usbs inspired by portal
+# ***PortalHub***
+![RENDER](images/render.png)
+This is a USB hub that lets you connect 4 USBs inspired by portal
 The repository is structured as follows:
 
  - CAD: with the models for the casing of the hub in various formats
